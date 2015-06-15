@@ -1,0 +1,63 @@
+{{ range $element :=  .Data.Pages }}
+    {{ if eq .Section "home" }}
+        {{ if eq .Title "intro_box" }}
+            <div id="headerwrap">
+              <div class="container">
+                <div class="row">
+                  <div class="span6">
+                    <h1>{{ .Params.header }}</h1>
+                    <p class="hidden-phone hidden-tablet"> {{ range $element :=  .Params.summary }} {{$element}} <br /> {{ end }}</p>
+                    <div class="button-full"> <a href="{{ .Params.readmore_link }}">Read More</a> </div>
+                    <br/>
+                    <br/>
+                    <br/>
+                  </div>
+                  <div class="span6 hidden-tablet">
+                    <div id="myCarousel" class="carousel slide hidden-phone">
+                      <div class="carousel-inner">
+                        <div class="item active">
+                          <p><a href='{{ .Params.slide1_link }}'><img src='{{ .Params.slide1_image }}' alt='{{ .Params.slide1_image }}'  style='clear:both;' /></a></p>
+                        </div>
+                        <div class="item">
+                          <p><a href='{{ .Params.slide2_link }}'><img src='{{ .Params.slide2_image }}' alt='{{ .Params.slide2_image }}'  style='clear:both;' /></a></p>
+                        </div>
+                        <div class="item">
+                          <p><a href='{{ .Params.slide3_link }}'><img src='{{ .Params.slide3_image }}' alt='{{ .Params.slide3_image }}'  style='clear:both;' /></a></p>
+                        </div>
+                        <div class="item">
+                          <p><a href='{{ .Params.slide4_link }}'><img src='{{ .Params.slide4_image }}' alt='{{ .Params.slide4_image }}'  style='clear:both;' /></a></p>
+                        </div>
+                        <div class="item">
+                          <p><a href='{{ .Params.slide5_link }}'><img src='{{ .Params.slide5_image }}' alt='{{ .Params.slide5_image }}'  style='clear:both;' /></a></p>
+                        </div>
+                        <div class="item">
+                          <p><a href='{{ .Params.slide6_link }}'><img src='{{ .Params.slide6_image }}' alt='{{ .Params.slide6_image }}'  style='clear:both;' /></a></p>
+                        </div>
+                        <div class="item">
+                          <p><a href='{{ .Params.slide7_link }}'><img src='{{ .Params.slide7_image }}' alt='{{ .Params.slide7_image }}'  style='clear:both;' /></a></p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div id="testimonials">
+              <div class="container">
+                <div class="row">
+                  <div class="span12">
+                    <div class="justWrap">
+                      <div class="boss2"> <img src="img/foto-kristof.png" alt="" class="img-circle"> </div>
+                      <span class="q1"></span> {{ .Params.kds_word }}<span class="q2"></span>
+                      <p><em>Best regards</em> <br>
+                      </p>
+                      <p><em>Kristof De Spiegeleer</em> <br>
+                        <em>CEO Incubaid</em></p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+        {{ end }}
+    {{ end }}
+{{ end }}

@@ -24,9 +24,92 @@
 							</div>
 						</aside>
 					</div>
-					<div class="info">
+					<div class="info clearfix">
 						<div class="span9">
-				        	{{ .Content }}
+									{{ if eq .Title "Management Team" }}
+										{{ .Content }}
+											<div>
+												<h3>{{ .Params.kristof_header }}</h3>
+												<div class="row">
+													<div class="span">
+														<div class="boss2">
+															<img src="{{ .Params.kristof_pic }}" alt="" class="img-circle" />
+														</div>
+													</div>
+													<div class="span7">
+														{{ range $element := .Params.kristof_bio }}
+															<p>{{ $element }}</p>
+														{{ end }}
+													</div>
+												</div>
+												<hr />
+											</div>
+											<div>
+												<h3>{{ .Params.sophie_header }}</h3>
+												<div class="row">
+													<div class="span">
+														<div class="boss2">
+															<img src="{{ .Params.sophie_pic }}" alt="" class="img-circle" />
+														</div>
+													</div>
+													<div class="span7">
+														{{ range $element := .Params.sophie_bio }}
+															<p>{{ $element }}</p>
+														{{ end }}
+													</div>
+												</div>
+												<hr />
+											</div>
+											<div>
+												<h3>{{ .Params.jan_header }}</h3>
+												<div class="row">
+													<div class="span">
+														<div class="boss2">
+															<img src="{{ .Params.jan_pic }}" alt="" class="img-circle arvid Jan" />
+														</div>
+													</div>
+													<div class="span7">
+														{{ range $element := .Params.jan_bio }}
+															<p>{{ $element }}</p>
+														{{ end }}
+													</div>
+												</div>
+												<hr />
+											</div>
+											<div>
+												<h3>{{ .Params.peter_header }}</h3>
+												<div class="row">
+													<div class="span">
+														<div class="boss2">
+															<img src="{{ .Params.peter_pic }}" alt="" class="img-circle arvid" />
+														</div>
+													</div>
+													<div class="span7">
+														{{ range $element := .Params.peter_bio }}
+															<p>{{ $element }}</p>
+														{{ end }}
+													</div>
+												</div>
+												<hr />
+											</div>
+											<div>
+												<h3>{{ .Params.pierre_header }}</h3>
+												<div class="row">
+													<div class="span">
+														<div class="boss2">
+															<img src="{{ .Params.pierre_pic }}" alt="" class="img-circle arvid" />
+														</div>
+													</div>
+													<div class="span7">
+														{{ range $element := .Params.pierre_bio }}
+															<p>{{ $element }}</p>
+														{{ end }}
+													</div>
+												</div>
+											</div>
+									{{ else }}
+				        		{{ .Content }}
+									{{ end }}
 						</div>
 					</div>
 				</div>

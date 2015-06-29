@@ -5,9 +5,9 @@ title = "DCT"
 
 ### Strategy & Funding
 
-![image](/www_incubaid/.files/img/logo-dct.png)
+![image](img/logo-dct.png)
 
-![image](/www_incubaid/.files/img//logo-symantec.png)
+![image](img//logo-symantec.png)
 
 ##### Founded:
 

@@ -4,9 +4,9 @@ title = "Dacentec"
 +++
 ### Dacentec
 
-![image](/www_incubaid/.files/img/logo-dacentec.png)
+![image](img/logo-dacentec.png)
 
-![image](/www_incubaid/.files/img/logo-centrilogic.jpg)
+![image](img/logo-centrilogic.jpg)
 
 ##### Founded:
 

@@ -4,7 +4,7 @@ title = "Racktivity"
 +++
 ### Strategy & Funding
 
-![image](/www_incubaid/.files/img/racktivity_logo.png)
+![image](img/racktivity_logo.png)
 
 ##### Founded:
 

@@ -4,7 +4,7 @@ title = "CloudFounders"
 +++
 ### Strategy & Funding
 
-![image](/www_incubaid/.files/img/logo-cf.png)
+![image](img/logo-cf.png)
 
 ##### Founded:
 

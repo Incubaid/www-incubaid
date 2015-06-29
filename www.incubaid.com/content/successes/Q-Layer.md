@@ -4,7 +4,7 @@ title = "Q-Layer"
 +++
 ### Q-Layer
 
-![image](/www_incubaid/.files/img/logo-qlayer.jpg) ![image](/www_incubaid/.files/img/logo-oracle.jpg) ![image](/www_incubaid/.files/img/logo-oraclesun.jpg)
+![image](img/logo-qlayer.jpg) ![image](img/logo-oracle.jpg) ![image](img/logo-oraclesun.jpg)
 
 ##### Founded:
 

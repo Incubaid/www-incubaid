@@ -4,7 +4,7 @@ title = "Awingu"
 +++
 ### Strategy & Funding
 
-![image](/www_incubaid/.files/img/awingu-small.png)
+![image](img/awingu-small.png)
 
 ##### Founded:
 

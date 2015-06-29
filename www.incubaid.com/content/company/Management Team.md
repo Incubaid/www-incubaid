@@ -8,7 +8,7 @@ The company is managed by a team with a unique blend of entrepreneurial and inve
 
 ### Kristof De Spiegeleer - CEO
 
-![image](../www_incubaid/.files/img/foto-kristof.png)
+![image](img/foto-kristof.png)
 
 Kristof De Spiegeleer is a dedicated entrepreneur with an impressive track record in datacenter optimisation technology.
 
@@ -18,7 +18,7 @@ Kristof is a respected visionary who is surrounded by a team of datacenter veter
 
 ### Sophie De Maesschalck - Managing Partner Incubaid - Group CFO
 
-![image](../www_incubaid/.files/img/Sophie.png)
+![image](img/Sophie.png)
 
 Sophie De Maesschalck co-founded Incubaid in 2009. She is responsible for the finance, HR and operational support of the Incubaid portfolio companies.
 
@@ -30,7 +30,7 @@ Sophie holds a PhD in applied sciences, electro-technical engineering, and an MS
 
 ### Jan De Landtsheer - CTO
 
-![image](../www_incubaid/.files/img/Jan.jpg)
+![image](img/Jan.jpg)
 
 Jan De Landtsheer has worked for almost 20 years in partnership with Kristof De Spiegeleer.
 
@@ -42,7 +42,7 @@ Jan is a master architect and master researcher at Incubaid and cofounded Dediga
 
 ### Peter Van der Henst – Finance Director
 
-![image](../www_incubaid/.files/img/Peter.jpg)
+![image](img/Peter.jpg)
 
 Peter Van der Henst is responsible for the financial & administrative aspects of the Incubaid members.
 
@@ -54,7 +54,7 @@ Peter has a bachelor-degree in Accounting & Taxations from HoGhent and developed
 
 ### Pierre Van Hoorebeke - Legal
 
-![image](../www_incubaid/.files/img/Pierre.jpg)
+![image](img/Pierre.jpg)
 
 Pierre Van Hoorebeke provides specialized legal advice to the Incubaid companies, including in the field of corporate, M&A and venture capital.
 

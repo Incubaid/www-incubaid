@@ -5,11 +5,11 @@ title = "Dedigate"
 
 ### Dedigate
 
-![image](/www_incubaid/.files/img/logo-dedigate.gif)
+![image](img/logo-dedigate.gif)
 
-![image](/www_incubaid/.files/img/logo-terremark.jpg)
+![image](img/logo-terremark.jpg)
 
-![image](/www_incubaid/.files/img/logo-verizon.png)
+![image](img/logo-verizon.png)
 
 ##### Founded:
 

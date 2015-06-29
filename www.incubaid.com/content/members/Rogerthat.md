@@ -4,7 +4,7 @@ title = "Rogerthat"
 +++
 ### Strategy & Funding
 
-![image](/www_incubaid/.files/img/rogerthat.png)
+![image](img/rogerthat.png)
 
 ##### Founded:
 

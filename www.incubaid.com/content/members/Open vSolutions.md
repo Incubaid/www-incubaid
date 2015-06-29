@@ -4,7 +4,7 @@ title = "Open vSolutions"
 +++
 ### Strategy & Funding
 
-![/www\_incubaid/.files/img/Open vSolutions\_logo.png](/www_incubaid/.files/img/Open%20vSolutions_logo.png)
+![/www\_incubaid/.files/img/Open vSolutions\_logo.png](img/Open%20vSolutions_logo.png)
 
 ##### Founded:
 

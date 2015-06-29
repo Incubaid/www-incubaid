@@ -4,7 +4,7 @@ title = "Mothership1"
 +++
 ### Strategy & Funding
 
-![image](/www_incubaid/.files/img/Mothership1_logo.png)
+![image](img/Mothership1_logo.png)
 
 ##### Founded:
 

@@ -4,7 +4,7 @@ title = "Amplidata"
 +++
 ### Strategy & Funding
 
-![image](/www_incubaid/.files/img/amplidata-small.png)
+![image](img/amplidata-small.png)
 
 ##### Founded:
 

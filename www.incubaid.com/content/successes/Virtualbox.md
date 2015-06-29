@@ -4,11 +4,11 @@ title = "Virtualbox"
 +++
 ### Virtualbox
 
-![image](/www_incubaid/.files/img/logo-oracle.jpg)
+![image](img/logo-oracle.jpg)
 
-![image](/www_incubaid/.files/img/logo-oraclesun.jpg)
+![image](img/logo-oraclesun.jpg)
 
-![image](/www_incubaid/.files/img/logo-virtualbox.png)
+![image](img/logo-virtualbox.png)
 
 ##### Founded:
 

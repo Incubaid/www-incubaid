@@ -4,9 +4,9 @@ title = "Hostbasket"
 +++
 ### Hostbasket
 
-![image](/www_incubaid/.files/img/logo-hostbasket.png)
+![image](img/logo-hostbasket.png)
 
-![image](/www_incubaid/.files/img/logo-telenet.png)
+![image](img/logo-telenet.png)
 
 ##### Founded:
 

@@ -261,3 +261,12 @@ height: 100px;
 #headerwrap .carousel p { margin-left: 0; }
 
 .rheading{ text-transform: capitalize; }
+
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {position: relative;min-height: 100%;}
+body { margin-bottom: 250px;}
+#footer {position: absolute;bottom: 55px;width: 100%;}
+#copyright{position: absolute;bottom: 0;width: 100%;}
+body { background-color: #FFF}

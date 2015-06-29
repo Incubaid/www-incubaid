@@ -6,7 +6,7 @@ header = "Welcome to Incubaid"
 
 summary = ["We focused for more than 15 years on datacenters", "We develop new technologies and establish new companies for it", "We collaborate with a group of international investors"]
 
-readmore_link = "/Introduction"
+readmore_link = "Introduction/Introduction"
 
 kds_word = "Welcome to the Incubaid website. Incubaid is a technology incubator that helps its members grow into successful companies. We are not a Venture Capital firm although we do collaborate with a group of international investors to expand our reach and fund our member companies. Incubaid's main activities are in the datacenter and cloud computing industries. Since founding in 2001, Incubaid has helped fourteen companies to launch. Most of the Incubaid assisted companies are active within the IT infrastructure landscape, mainly cloud and datacenter related. Our dream has been focused on building and operating the perfect datacenter & cloud architecture. To make this dream reality, we have worked together with a great team of people and have created some unique technology and firmly believe that we can call ourselves the best cloud experts in the world. What makes Incubaid so different is that we think out of the box and try to create groundbreaking disruptive technologies. We hope to make IT as easy to use, reliable and scalable as electricity."
 

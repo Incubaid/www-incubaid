@@ -28,7 +28,7 @@ jQuery.fn.pagetree = function(){
         var links = nephews.add(brothers);
         for (var i = 0; i < links.length; i++) {
             if (links[i].href == location.href) {
-                $(links[i]).parent().addClass('active-item');
+                // $(links[i]).parent().addClass('active-item');
                 return;
             }
         }
@@ -43,5 +43,5 @@ jQuery.fn.pagetree = function(){
     currentPage = decodeURI(parts[parts.length -1]);
     menuitemsel = "li:has(a[href*='"+ currentPage +"']), li:has(a[href*='" + encodeURI(currentPage) + "'])";
     $("li a.active").removeClass("active-item");
-    $(menuitemsel).addClass("active-item");
+    // $(menuitemsel).addClass("active-item");
 };

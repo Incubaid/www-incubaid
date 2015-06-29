@@ -73,14 +73,14 @@ color: #FFF;
 .q1 { width: 18px; height: 15px; background: url(../img/q1.png); display: inline-block; margin: 0 7px 0 0;opacity: 0.9;}
 
 .q2 {width: 18px; height: 15px; background: url(../img/q2.png); display: inline-block; margin: 0 0 0 7px;opacity: 0.9;}
-.white { background-color: #FFF; padding: 15px 0 0 0;}
+.white { background-color: #FFF; padding: 15px 0 0 0; min-height: 200px;}
 
 #herowrap {
 background-color: #E9E9E9 !important;
 }
 
 #herowrap h3 {
-	margin: 0 0 0 10px;
+	margin: 0 0 0 50px;
 }
 
 
@@ -259,3 +259,5 @@ height: 100px;
 .nav-list > .active > a, .nav-list > .active > a:hover, .nav-list > .active > a:focus  { color: #c0392b; background-color: transparent; text-shadow: none;}
 
 #headerwrap .carousel p { margin-left: 0; }
+
+.rheading{ text-transform: capitalize; }

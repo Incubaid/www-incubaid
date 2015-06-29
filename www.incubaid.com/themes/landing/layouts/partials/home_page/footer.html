@@ -1,4 +1,4 @@
-{{ range $element :=  .Data.Pages }}
+{{ range $element :=  $.Site.Pages }}
     {{ if eq .Section "home" }}
         {{ if eq .Title "footer_box" }}
 			<div id="footer">

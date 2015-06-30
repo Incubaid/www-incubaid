@@ -18,4 +18,4 @@ In spite of all the innovation in the cloud over the past few years, the IAAS la
 
 Incubaid creates and stimulates companies that help to solve many of these issues.
 
-Incubaid creates & stimulates companies who help to solve these issues. Read more [here](/members/members) about our active member companies
+Incubaid creates & stimulates companies who help to solve these issues. Read more [here](/members) about our active member companies

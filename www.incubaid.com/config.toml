@@ -9,3 +9,4 @@ relativeURLs = true
 
 [permalinks]
     post = "/:filename"
+    contact-us = "/:filename"

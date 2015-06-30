@@ -12,18 +12,20 @@
 		<div class="white">
 			<div class="container page-container">
 				<div class="row">
-					<div class="span3">
-            <aside>
-							<div class="widget">
-								<h4 class="rheading">{{ .Section }}<span></span></h4>
-								<ul class="nav nav-list tree">
-									{{ range $element := where .Site.Pages "Section" .Section }}
-                    <li class="active-item active"><a href="{{ $element.RelPermalink }}">{{ $element.Title }}</a></li>
-									{{ end }}
-								</ul>
-							</div>
-						</aside>
-					</div>
+          {{ if ne .RelPermalink "/thanks"}}
+						<div class="span3">
+								<aside>
+									<div class="widget">
+										<h4 class="rheading">{{ .Section }}<span></span></h4>
+										<ul class="nav nav-list tree">
+											{{ range $element := where .Site.Pages "Section" .Section }}
+		                    <li class="active-item active"><a href="{{ $element.RelPermalink }}">{{ $element.Title }}</a></li>
+											{{ end }}
+										</ul>
+									</div>
+								</aside>
+						</div>
+					{{ end }}
 					<div class="info clearfix">
 						<div class="span9">
 									{{ if eq .Title "Management Team" }}

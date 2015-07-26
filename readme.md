@@ -25,10 +25,10 @@ To preview your changes, run `hugo server` instead and browse to [http://127.0.0
 ## Add content documentation
 
 ### Home page
-![Alt text](/www.incubaid.com/static/images/home-screenshot.png)
+![Alt text](https://git.aydo.com/static-websites/www-incubaid/raw/master/www.incubaid.com/static/images/home-screenshot.png)
 
 ### Internal pages
-![Alt text](/www.incubaid.com/static/images/internal-pages.png)
+![Alt text](https://git.aydo.com/static-websites/www-incubaid/raw/master/www.incubaid.com/static/images/internal-pages.png)
 
 ### Contact us page
-![Alt text](/www.incubaid.com/static/images/contact-us.png)
+![Alt text](https://git.aydo.com/static-websites/www-incubaid/raw/9c4694f1b8448fd88bdea3bb6b28ca72d1b3fbf6/www.incubaid.com/static/images/contact-us.png)

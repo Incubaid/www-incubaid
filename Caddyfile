@@ -1,12 +1,19 @@
-http://incubaid.aydo.com:8888 {
+http://www.incubaid.com, http://incubaid.com {
     bind 0.0.0.0
+    redir https://www.incubaid.com
+}
+
+https://www.incubaid.com {
+    bind 0.0.0.0
+    tls ../certs/ovs.com.crt.pem ../certs/ovs.com.key.pem
     gzip
     root www.incubaid.com/site
     git {
-       repo git@git.aydo.com:static-websites/www-incubaid.git
-       interval 300
-       key ../keys/id_rsa
-       path ../..
-       then hugo -s www.incubaid.com
+        repo git@git.aydo.com:static-websites/www-incubaid.git
+        branch production
+        interval 300
+        key ../keys/id_rsa
+        path ../..
+        then hugo -s www.incubaid.com
     }
 }

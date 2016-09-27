@@ -8,7 +8,7 @@ summary = ["Incubaid achieved 6 exits", "Incubaid invests globally", "Incubaid s
 
 readmore_link = "Introduction/Introduction"
 
-kds_word = "Incubaid is a European-based technology incubator and business accelerator founded by Kristof De Spiegeleer. Incubaid is backing Green IT Globe with investment, intellectual property, business development and strategy.
+kds_word = "Incubaid is a European-based technology incubator and business accelerator founded by Kristof De Spiegeleer. Incubaid is backing Green IT Globe with investment, intellectual property, business development and strategy."
 
 slide1_link = 'members/Amplidata'
 slide1_image = 'img/amplidata.png'

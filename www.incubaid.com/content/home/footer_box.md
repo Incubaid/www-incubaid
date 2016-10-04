@@ -14,7 +14,6 @@ block3_text = ['Antwerpse Steenweg 19', '9080 Lochristi,Belgium', 'E-mail: info@
 
 copyright = "© Incubaid. All rights reserved"
 +++
-=======
-copyright = "© Incubaid. All rights reserved."
-+++
+
+
 

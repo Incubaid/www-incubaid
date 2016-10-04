@@ -4,7 +4,7 @@ title = "IT As Energy"
 +++
 
 ### IT as Energy
-Incubaid is Green IT Globe's in-house incubator. The company supports our various technology startups that develop software in different technology domains. The ultimate vision is to make the Internet more efficient, and ultimately deliver IT as Energy.   
+Incubaid is Green IT Globe's in-house incubator. The company supports various technology startups that develop software in different technology domains, such as blockchain, mobile, storage and cloud. The ultimate vision is to make the Internet more efficient and green, and ultimately deliver IT as Energy to individuals, businesses and society.  
 
 #### IT equals Energy
 Energy was the primary driver for the industrial revolution(s). We believe that IT Capacity will be the energy source that drives the next industrial revolution - hence IT = Energy.

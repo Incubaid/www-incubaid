@@ -3,19 +3,10 @@
 title = "Introduction"
 +++
 
-### Introduction
+### Powering Green IT Globe
 
-Incubaid aims to accelerate the successful development of technology ventures. Historically, the focus of the company has been around datacenter automation. More recently, through a number of successful ventures, the focus has shifted to cloud computing and green datacenters of which automation is still an important aspect of this strategy.
+Our experience as technology enterpreneurs has led us to found Incubaid. Since 2000 we have been exiting a number of startups to technology giants. These giants, such as Oracle, Verizon, Hitachi Data Systems, have established billion dollar revenue streams in datacenter storage and cloud services, using technology, products and companies originally started by Incubaid.
 
-Around 2005, Amazon took the lead in the cloud computing industry with its S3 and EC2 services. Google (AppEngine) and Salesforce (Force.com) have also become prominent players in the sector. The ecosystem has segmented into Infrastructure as a Service (IAAS), Platform as a Service (PAAS) and Software as a Service (SAAS). Cloud computing is experiencing a growing popularity across all industry segments, with a lot of activity within the top layer. Incubaid has identified many opportunities for innovation in the IAAS layer.
+Throughout the years we gathered capital, technology, financial and legal advisory, and a network of very experienced and international startup veterans that support a portfolio of early-stage startups and our main holding company, Green IT Globe. Incubaid is unique as it has been carefully been protecting and growing the intelectual property while generating serious returns to its investors.
 
-In spite of all the innovation in the cloud over the past few years, the IAAS layer still faces a lot of issues especially around its Green credentials:
-
--   Power consumption is still at unacceptably high levels; over a period of of 3 years, the cost of power has jumped to 50% of hardware costs.
--   There are still too many manual processes; we still have not reached the full automated solution as promised by the cloud paradigm.
--   Current storage technologies fail to offer a low cost, always online, and unbreakable system and are not adequate for cloud storage requirements
--   The levels of complexity in the datacenter has not been reduced; most cloud platforms do nothing more than virtualise servers.
-
-Incubaid creates and stimulates companies that help to solve many of these issues.
-
-Incubaid creates & stimulates companies who help to solve these issues. Read more [here](/members) about our active member companies
+Besides Green IT Globe, the areas of incubation and innovation are centered around blockchain innovation, new digital currencies, next generation mobile applications and the decentralization of the Internet, making it much more green, friendly towards privacy and enabling new digital economies to realize its full potential using internet platforms provided by Green IT Globe and Incubaid.

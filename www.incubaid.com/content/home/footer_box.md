@@ -11,5 +11,10 @@ block2_text = "Our team has a proven track record in datacenter automation and c
 block3_header = "Contact"
 block3_text = ['Antwerpse Steenweg 19', '9080 Lochristi,Belgium', 'E-mail: info@incubaid.com', 'Phone: +32 9 324 20 50']
 
+
+copyright = "© Incubaid. All rights reserved"
++++
+=======
 copyright = "© Incubaid. All rights reserved."
 +++
+>>>>>>> master

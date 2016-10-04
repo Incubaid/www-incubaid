@@ -17,4 +17,4 @@ copyright = "© Incubaid. All rights reserved"
 =======
 copyright = "© Incubaid. All rights reserved."
 +++
->>>>>>> master
+

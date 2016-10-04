@@ -2,13 +2,13 @@
 #Don't remove name!
 title = "intro_box"
 
-header = "Welcome to Incubaid"
+header = "Incubator and Innovator"
 
-summary = ["We focused for more than 15 years on datacenters", "We develop new technologies and establish new companies for it", "We collaborate with a group of international investors"]
+summary = ["Incubaid achieved 6 exits", "Incubaid invests globally", "Incubaid supports Green IT Globe"]
 
 readmore_link = "Introduction/Introduction"
 
-kds_word = "Welcome to the Incubaid website. Incubaid is a technology incubator that helps its members grow into successful companies. We are not a Venture Capital firm although we do collaborate with a group of international investors to expand our reach and fund our member companies. Incubaid's main activities are in the datacenter and cloud computing industries. Since founding in 2001, Incubaid has helped fourteen companies to launch. Most of the Incubaid assisted companies are active within the IT infrastructure landscape, mainly cloud and datacenter related. Our dream has been focused on building and operating the perfect datacenter & cloud architecture. To make this dream reality, we have worked together with a great team of people and have created some unique technology and firmly believe that we can call ourselves the best cloud experts in the world. What makes Incubaid so different is that we think out of the box and try to create groundbreaking disruptive technologies. We hope to make IT as easy to use, reliable and scalable as electricity."
+kds_word = "Incubaid is a technology incubator focused primarily on cloud computing and related sectors. Since 2000, Incubaid has founded and developed a number of startups in datacenter, storage and cloud services - including 6 successful exits to leading technology companies including Sun Microsystems, Western Digital, Verizon and Hitachi Data Systems. Our largest portfolio company, Green IT Globe, combines multiple portfolio technologies into a highly disruptive wholistic cloud computing technology solution.We are a team comprised of start-up veterans with many of us working together for more than a decade. Our extensive experience spans capital raising, operations and execution, legal advisory, IP and financial.  Our team is further supported by a network of advisors and consultants who provide assistance to our portfolio companies.In addition to Green IT Globe, our current areas of focus are centered around blockchain innovation, digital currencies, next generation mobile applications and green energy technologies."
 
 slide1_link = 'members/Amplidata'
 slide1_image = 'img/amplidata.png'

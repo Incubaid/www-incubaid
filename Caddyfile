@@ -1,4 +1,4 @@
-http://www.incubaid.com:83 {
+http://incubaid.aydo.com:8888, http://www.incubaid.aydo.com:8888 {
     bind 0.0.0.0
     gzip
     root www.incubaid.com/site
@@ -6,7 +6,7 @@ http://www.incubaid.com:83 {
         repo git@github.com:Incubaid/www-incubaid.git
         branch production
         interval 300
-        key ../keys/id_rsa
+        key ../keys/id_rsa-new
         path ../..
         then hugo -s www.incubaid.com
     }

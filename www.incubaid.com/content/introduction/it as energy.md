@@ -4,17 +4,18 @@ title = "IT As Energy"
 +++
 
 ### IT as Energy
+Incubaid is Green IT Globe's in-house incubator. The company supports our various technology startups that develop software in different technology domains. The ultimate vision is to make the Internet more efficient, and ultimately deliver IT as Energy.   
 
-##### As Storage and Computing needs grow exponentially, “Data becomes the new oil”.
+#### IT equals Energy
+Energy was the primary driver for the industrial revolution(s). We believe that IT Capacity will be the energy source that drives the next industrial revolution - hence IT = Energy.
 
-Our vision is to deliver IT in a green, secure and pay-as-you-use method, similar to the way we currently consume electricity. We created the first credible platform that can make this vision a reality. Our goal: on a global scale compete with Amazon.
+Today the reliance on IT for our businesses and society is as important as electricity. Like electricity, we believe IT capacity should be local, always available and transparently priced for everyone. Also like any other energy source, it is important that our IT capacity should be produced in a green environmentally-friendly way.
 
-##### Disruptive Technology
+We believe IT capacity should be generated and consumed on local grid networks - just like electricity.
 
-Our team has proven expertise in the field of cloud computing and we have already made 5 successful exits. We have built an advanced and vertically integrated cloud computing solution that allows us to beat competition on price and on performance.
+#### IT as Energy
+Incubaid and Green IT Globe produce raw capacity in the form of compute, storage and transaction building blocks that combine to run any IT workload. These so-called “cloud units” operate similarly to kilowatts of electricity - in the sense that they can be dynamically allocated to our customers as needed.
 
-##### In summary, we beat current cloud players along three key axis:
+Green IT Globe’s IT as Energy concept allows transparent pricing and trading of IT capacity similar to electricity - enabling much more efficient utilization to keep up with exponential demand.
 
--   Better value: more performance at lower costs thanks to our lowest TCO, our innovative technology stack
--   Openness: We do not be force our customer into a closed ecosystem.
--   Better “real world performance” thanks to our partnership with Telecom operators.
+The team of Incubaid is here to support your technology-led initiatives and startups that are sharing the same vision and look to work with us and add value towards a green, friendly and democratized Internet. 

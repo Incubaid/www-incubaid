@@ -4,7 +4,7 @@ title = "intro_box"
 
 header = "Incubator and IT Innovator"
 
-summary = ["6 High-Profile Exits", "100% Software-Driven", "Backing Green IT Globe"]
+summary = ["7 High-Profile Exits", "Disruptive Portfolio", "Green IT Globe Accelerator"]
 
 readmore_link = "introduction/introduction"
 

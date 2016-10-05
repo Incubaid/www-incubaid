@@ -8,7 +8,11 @@ summary = ["Incubaid achieved 6 exits", "Incubaid invests globally", "Incubaid s
 
 readmore_link = "Introduction/Introduction"
 
-kds_word = "Incubaid is a technology incubator focused primarily on cloud computing and related sectors. Since 2000, Incubaid has founded and developed a number of startups in datacenter, storage and cloud services - including 6 successful exits to leading technology companies including Sun Microsystems, Western Digital, Verizon and Hitachi Data Systems. Our largest portfolio company, Green IT Globe, combines multiple portfolio technologies into a highly disruptive wholistic cloud computing technology solution.We are a team comprised of start-up veterans with many of us working together for more than a decade. Our extensive experience spans capital raising, operations and execution, legal advisory, IP and financial.  Our team is further supported by a network of advisors and consultants who provide assistance to our portfolio companies.In addition to Green IT Globe, our current areas of focus are centered around blockchain innovation, digital currencies, next generation mobile applications and green energy technologies."
+kds_word = "Incubaid is a technology incubator focused primarily on cloud computing and related sectors. Since 2000, Incubaid has founded and developed a number of startups in datacenter, storage and cloud services - including 6 successful exits to leading technology companies including Sun Microsystems, Western Digital, Verizon and Hitachi Data Systems. Our largest portfolio company, Green IT Globe, combines multiple portfolio technologies into a highly disruptive wholistic cloud computing technology solution.
+
+We are a team comprised of start-up veterans with many of us working together for more than a decade. Our extensive experience spans capital raising, operations and execution, legal advisory, IP and financial.  Our team is further supported by a network of advisors and consultants who provide assistance to our portfolio companies. 
+
+In addition to Green IT Globe, our current areas of focus are centered around blockchain innovation, digital currencies, next generation mobile applications and green energy technologies."
 
 slide1_link = 'members/Amplidata'
 slide1_image = 'img/amplidata.png'

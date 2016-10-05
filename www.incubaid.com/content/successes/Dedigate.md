@@ -23,8 +23,8 @@ Terremark acquired all of the outstanding stock of Dedigate in exchange for 1.6 
 
 Dedigate provides managed dedicated, secure hosting services to enterprise customers, e-commerce marketplaces, system integrators, ASP's and web designers using proprietary technology to remain automated and scalable across geographically remote locations. The Dedigate solution allows for the rapid integration and deployment of their products in each of Terremark's Internet exchanges around the world.
 -   Dedigate was a pioneer in complex dedicated hosting (European based)
--   Dedigate helped flagship customers like Kelkoo/Yahoo, Exostar, and Quadrem
--   The firm was a pioneer in early cloud computing with Incubaid team members playing a key role in cloud strategy and cloud implementation towards Terremark and Verizon.
+-   The firm was a pioneer in early cloud computing with Incubaid team members playing a key role in cloud strategy and cloud implementation towards Terremark and Verizon
+-   Over 70 U.S., European and Asian enterprises are customers of Dedigate, including Exostar, Quadrem, Kelkoo, Pfizer, Samsonite and Pioneer
 
 ##### Today:
 

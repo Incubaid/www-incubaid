@@ -12,6 +12,7 @@ Sun Microsystems was elevating its presence in the cloud with the acquisition of
 
 ##### Exit: 2009
 
+Q-layer’s technology simplifies and automates the deployment and management of both public and private clouds and allows users to quickly provision and deploy applications, a key component in Sun’s refocused strategy,
 -   Acquired by SUN Microsystems (now Oracle) in 2009
 -   More than 3x return in 2 years for investors
 

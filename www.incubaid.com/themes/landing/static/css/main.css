@@ -314,10 +314,13 @@ hr {
 
 /* HEADERWRAP */
 #headerwrap {
-	background: url(../img/bg2.jpg) no-repeat 0 -257px; 
+	background: url(../img/spring-bud-growing-000088107633_Full.jpg) no-repeat;
 	text-align:left;
 	padding-top:0px;
-	max-height:550px;
+	min-height:500px;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
 }
 
 #headerwrap h1 {

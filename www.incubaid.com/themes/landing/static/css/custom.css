@@ -7,7 +7,7 @@ margin: -2px 0 0 -1px !important;
 float: none !important;
 clear: none !important; max-height: 1000px !important;}
 
-.boss2 { -webkit-border-radius: 500px; -moz-border-radius: 500px; border-radius: 500px; width: 115px; margin: 0 18px 0 0; height: 115px; overflow: hidden; border: 2px solid #c0392b; display: inline-block;
+.boss2 { -webkit-border-radius: 500px; -moz-border-radius: 500px; border-radius: 500px; width: 115px; margin: 0 18px 0 0; height: 115px; overflow: hidden; border: 2px solid #fff; display: inline-block;
 float: left;}
 .boss2 img { max-width: 118px !important;
 margin: -2px 0 0 -1px !important;
@@ -15,6 +15,7 @@ margin: -2px 0 0 -1px !important;
 float: none !important;
 clear: none !important; max-height: 1000px !important;}
 
+.span6 { padding-top: 35px;}
 
 .imgWrap {
     text-align: center;

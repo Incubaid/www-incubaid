@@ -10,25 +10,26 @@ title = "Virtualbox"
 
 ![image](img/logo-virtualbox.png)
 
-##### Founded:
+##### Founded: 2000
 
-2000 by Achim Hasenmueller
+Hypervisor software developed by Innotek GmbH, a Weinstadt, Germany-based supplier of virtualization software. Founded by Achim Hasenmueller, who is currently advisor to Green IT Globe and Racktivity. The company was founded in 2000.
 
-##### Exit:
+##### Exit: 2008
 
-Acquired by SUN Microsystems (now Oracle) in 2008
+Acquired by SUN Microsystems (now Oracle) in 2008. It enabled all developers worldwide with a more performing hypervisor that can be installed locally. Virtualbox is the most popular DevOps hypervisor in the world.
 
-##### Activities:
+##### Milestones:
 
--   The first neutral hypervisor in the World
+-   The first neutral hypervisor in the world
 -   When acquired it had more than 5.000.000 users
 -   Virtualbox had more than 1.000.000 downloads per week
--   We became chairman & strategic partners in 2008 and guided the acquisition by SUN.
+-   Incubaid has led the technology positioning and exit to SUN
 
 ##### Today:
 
--   Virtualbox is still the most downloaded hypervisor in the World
--   Virtualbox is the only hypervisor that is truly cross platform.
+-   Virtualbox is still the most downloaded hypervisor in the world
+-   Virtualbox is the most efficient hypervisor for local installation
+-   Virtualbox is the most popular DevOps hypervisor for 20 million developers 
 
 ##### Website:
 

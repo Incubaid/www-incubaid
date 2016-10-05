@@ -1,6 +1,6 @@
 +++
 #Don't remove title!
-title = "CloudFounders"
+title = "Green IT Globe"
 +++
 ### Strategy & Funding
 

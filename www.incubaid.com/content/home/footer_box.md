@@ -2,17 +2,17 @@
 #Don't remove name!
 title = "footer_box"
 
-block1_header = "Incubaid"
-block1_text = "Incubaid brings scale, reliability and cost advantage to customers without pushing them into a proprietary technology direction."
+block1_header = "100% Software-driven"
+block1_text = "Software is eating the world. We are a software-only incubator with a laser-sharp focus on helping our portfolio companies to fully disrupt their industries. "
 
-block2_header = "Team"
-block2_text = "Our team has a proven track record in datacenter automation and cloud computing. The team has an impressive track record achieving 6 successful exits."
+block2_header = "100% Energy-saving"
+block2_text = "We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society. "
 
 block3_header = "Contact"
-block3_text = ['Antwerpse Steenweg 19', '9080 Lochristi,Belgium', 'E-mail: info@incubaid.com', 'Phone: +32 9 324 20 50']
+block3_text = ['Idola Business Center', 'Antwerpse Steenweg 19', '9080 Lochristi, Belgium', 'E-mail: info@incubaid.com']
 
 
-copyright = "© Incubaid. All rights reserved"
+copyright = "© Incubaid. All rights reserved."
 +++
 
 

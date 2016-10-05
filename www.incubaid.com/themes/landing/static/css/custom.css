@@ -263,6 +263,16 @@ height: 100px;
 
 .rheading{ text-transform: capitalize; }
 
+.span7{ margin-top: 94px; }
+.span7 a{ margin-right: 10px; }
+.span7 a:hover{ color: #fff; }
+
+.linkedin, .twitter, .mail, .telegram{ background-color: #007bb5; color: #fff; padding: 10px 20px; font-weight: bold;}
+.twitter{ background-color:  #55acee;}
+.telegram { background-color: #0088cc;}
+.mail { background-color: #68b622;}
+
+
 
 /* Sticky footer styles
 -------------------------------------------------- */

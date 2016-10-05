@@ -2,16 +2,28 @@
 #Don't remove title!
 title = "About The Company"
 +++
-### About the Company
+### The Incubator behind Green IT Globe
 
-Incubaid has a mission to bring promising technology start-ups to a stage where they can successfully transform from R&D-oriented development companies into market driven businesses. Our hands-on involvement will substantially impact on various stages of a company by providing assistance with:
+Incubaid is a Belgian-based company. We are proud to be based in a neutral country, while doing successful international business. Our neutrality keeps us safe and sound during heavy-weight negotiations with giant companies for investment or acquisition.
 
--   Set-up and structuring of the company
--   Building the technology by using recommended and proven product development processes, ranging from product management to product creation and delivery
--   Sales and marketing
--   It's all about the people, so we help you to hire the right team for your business
--   Deal negotiations including mergers and acquisiations
--   Financial planning and control
--   Securing funding rounds
+We are proud to be part of the Green IT Globe holding company. Green IT Globe combines multiple portfolio technologies into a highly disruptive wholistic cloud computing and storage platform solution.
 
-Incubaid is the owner of a fantastic automation framework that is used as a foundation for all the technologies our member companies create.
+The success behind our incubator is based on following principles:
+* Independence - we keep our portfolio companies 100% indepedent, early-stage or late-stage, during the complete lifecycle
+* Invention - invention has be disruptive, and not promising incremental added-value. We only work with the best inventors
+* International - the world has been globalized since decades, our teams are working from all continents doing deals
+
+Incubaid is also very proud to be a true social responsible company, in following domains:
+* Eco-friendly technology - making technology much more greener, even 100% green!
+* Emerging markets - making technology accessible by and available to the other billion people
+* Open-source software - giving technology back to the mass, collaborate and innovate on a global level
+* Employment - enabling technology to be deployed locally, creating jobs and opportunities
+
+Incubaid is software-driven. We automate processes as much as we can to help our portfolio companies to gain efficiencies while growing much faster than any other incubator or investor can do. We control different software domains and portfolio companies:
+* Blockchain technology
+* Big data compute platforms
+* High-performance storage algorithms
+* Cloud automation and virtualization
+* Automated deployment of mobile apps
+* Encryption technology and secure communication
+* 5G wireless platform for mobile communications

@@ -1,6 +1,6 @@
 +++
 #Don't remove title!
-title = "DCT"
+title = "DataCenterTech"
 +++
 
 ### Strategy & Funding

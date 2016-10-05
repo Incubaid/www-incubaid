@@ -22,9 +22,9 @@ jan_header = "Jan De Landtsheer - Chief Research and Development"
 jan_pic = "img/Jan.jpg"
 jan_bio = ["LinkedIn: https://be.linkedin.com/in/jand2."]
 
-peter_header = "Peter Van der Henst – Group Finance Director"
-peter_pic = "img/Peter.jpg"
-peter_bio = ["LinkedIn: https://be.linkedin.com/in/petervanderhenst."]
+peterv_header = "Peter Van der Henst – Group Finance Director"
+peterv_pic = "img/Peter.jpg"
+peterv_bio = ["LinkedIn: https://be.linkedin.com/in/petervanderhenst."]
 
 
 +++

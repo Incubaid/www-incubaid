@@ -2,41 +2,31 @@
 #Don't remove title!
 title = "Amplidata"
 +++
-### Strategy & Funding
+### Amplidata
 
 ![image](img/amplidata-small.png)
 
-##### Founded:
+##### Founded: 2008
 
-2008 (developed by Incubaid where it was active for several years in stealth mode)
+Amplidata’s primary offering is Himalaya, an advanced object storage software product that enables scale-out software-defined storage systems. By delivering industry leading scalability with the efficiency, resiliency, and flexibility required for demanding cloud data center environments, Amplidata’s products and technology have earned the trust of leading OEMs and cloud service providers.
 
-Kristof De Spiegeleer, Hummingbird Ventures (BE), Endeavour Vision (CH), Swisscom Ventures (CH), Intel Capital, Quantum, Management Team / Founders</br\>
+##### Exit: 2015
 
-##### Headquarters:
+Western Digital Corporation (NASDAQ: WDC) acquired Amplidata to supports strategy to expand into higher value storage platforms and systems that deliver breakthrough value and scalability to address the massive growth in storage requirements in cloud data centers.
 
-EMEA Lochristi (Belgium), US Redwood City (CA)
+##### Milestones:
 
-##### Offices:
+-   2008 founded in Lochristi (Belgium), 
+-   2009 development office opened in Cairo (Egypt)
+-   2010 sales office opened in California (USA)
+-   2012 OEM agreement with Quantum for Amplidata's AmpliStor XT technology 
+-   2013 HGST announces joint development partner with Amplidata for its Active Archive platform
 
-Lochristi (Belgium), Cairo (Egypt), California (USA)
+##### Today: The Third Platform
 
-##### Activities:
+Active Archive: Innovating in the Third Platform
 
-Amplidata created a multi Petabyte scalable cloud storage system that is more reliable and energy efficient than legacy solutions. The TCO of Amplidata's storage system is at least 75% better than any of its nearest competitors. Disruptive algorithms have been invented to make this happen.
-
-##### Main Benefits:
-
--   10 times less power usage.
--   3 times less disks required to get to better reliability compared to 3 way replication.
--   10.000x more reliable compared to 3 way replication.
--   super fast: + 2 GByte/sec per storage front end node.
-
-##### Strategy:
-
--   Provide a high-available solution to enormous data growth at low cost
--   Customers: everyone storing 200+ TB
--   Partners: targeting specific applications that generate large data volumes
--   Direct & channel sales in US & Europe
+The storage ecosystem continues to transform with a greater focus on how data is stored, accessed, and protected. As a result, storage has become a key enabler of the information technology industry‘s transition to the “Third Platform” of computing, as the world becomes more data-centric. Dynamic provisioning of cloud-scale computing assets is the essence of the Third Platform, which is driving new customer requirements and transforming business models. HGST’s Active Archive solutions are purpose-built to address the need for rapid access to the massive data stores in computing’s Third Platform using Amplidata.
 
 ##### Website:
 

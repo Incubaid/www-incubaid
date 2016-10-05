@@ -11,27 +11,26 @@ title = "Dedigate"
 
 ![image](img/logo-verizon.png)
 
-##### Founded:
+##### Founded: 2000
 
-2000
+Dedigate was the first Managed Service Provider in Europe, with headquarters in Belgium, and activities in France, Germany and The Netherlands. It was running managed services in more than 10 datacenters and had a turnover of $7 milion.
 
-##### Exit:
+##### Exit: 2005
 
-Acquired by Terremark in 2005
+Terremark acquired all of the outstanding stock of Dedigate in exchange for 1.6 million shares of Terremark's common stock. Dedigate's existing annual recurring revenue is approximately $7 million, with projected revenues over the next twelve months to exceed $10 million.
 
 ##### Activities:
 
--   Dedigate was a pioneer in Complex Dedicated Hosting (European based)
--   Dedigate helped flagship customers like Kelkoo/Yahoo, Exostar, and Quadrem.
--   The firm was a pioneer in early cloud computing with Incubaid team members playing a key role in cloud strategy and cloud implementation
+Dedigate provides managed dedicated, secure hosting services to enterprise customers, e-commerce marketplaces, system integrators, ASP's and web designers using proprietary technology to remain automated and scalable across geographically remote locations. The Dedigate solution allows for the rapid integration and deployment of their products in each of Terremark's Internet exchanges around the world.
+-   Dedigate was a pioneer in complex dedicated hosting (European based)
+-   Dedigate helped flagship customers like Kelkoo/Yahoo, Exostar, and Quadrem
+-   The firm was a pioneer in early cloud computing with Incubaid team members playing a key role in cloud strategy and cloud implementation towards Terremark and Verizon.
 
 ##### Today:
 
--   Part of Terremark (TWW), a global based carrier with neutral datacenters
+-   Part of Verizon, a global telecom giant that acquired Terremark and all the cloud activities if Dedigate
 -   Terremark was acquired by Verizon in order to boost its cloud strategy [Read News Announcement Verizon](http://newscenter.verizon.com/press-releases/verizon/2011/verizon-to-acquire-terremark.html)
--   Basis of all advanced new hosting services at Terremark.
--   Highly profitable and active worldwide.
--   Runs [The Enterprise Cloud](http://www.terremark.com/services/cloudcomputing/theenterprisecloud.aspx)
+-   Dedigate is the technology foundration and runs [The Enterprise Cloud](http://www.terremark.com/services/cloudcomputing/theenterprisecloud.aspx)
 
 ##### Website:
 

@@ -2,9 +2,9 @@
 #Don't remove name!
 title = "intro_box"
 
-header = "Incubator and Innovator"
+header = "Incubator and IT Innovator"
 
-summary = ["Incubaid achieved 6 exits", "Incubaid invests globally", "Incubaid supports Green IT Globe"]
+summary = ["6 High-Profile Exits", "100% Software-Driven", "Backing Green IT Globe"]
 
 readmore_link = "Introduction/Introduction"
 

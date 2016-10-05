@@ -5,14 +5,14 @@
         <ul class="nav">
           <li><a href="/">Home</a></li>
           <li class="dropdown"> <a href="introduction/introduction" class="dropdown-toggle">Introduction </b></a> </li>
-          <li class="dropdown"> <a href="" class="dropdown-toggle" data-toggle="dropdown">Successes <b class="caret"></b></a>
+          <li class="dropdown"> <a href="" class="dropdown-toggle" data-toggle="dropdown">Exits <b class="caret"></b></a>
             <ul class="dropdown-menu">
               {{ range $element := where .Site.Pages "Section" "successes" }}
                 <li class=""><a href="{{ $element.RelPermalink }}">{{ $element.Title }}</a></li>
               {{ end }}
             </ul>
           </li>
-          <li class="dropdown"> <a href="" class="dropdown-toggle" data-toggle="dropdown">Members <b class="caret"></b></a>
+          <li class="dropdown"> <a href="" class="dropdown-toggle" data-toggle="dropdown">Portfolio <b class="caret"></b></a>
             <ul class="dropdown-menu">
               {{ range $element := where .Site.Pages "Section" "members" }}
                 <li class=""><a href="{{ $element.RelPermalink }}">{{ $element.Title }}</a></li>

@@ -13,6 +13,7 @@ block3_text = ['Idola Business Center', 'Antwerpse Steenweg 19', '9080 Lochristi
 
 
 copyright = "© Incubaid. All rights reserved."
+
 +++
 
 

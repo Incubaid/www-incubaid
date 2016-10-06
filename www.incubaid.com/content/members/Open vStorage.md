@@ -1,6 +1,6 @@
 +++
 #Don't remove title!
-title = "Open vSolutions"
+title = "Open vStorage"
 +++
 ### Strategy & Funding
 

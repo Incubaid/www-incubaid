@@ -1,13 +1,13 @@
 @charset "utf-8";
 /* CSS Document */
-.boss { -webkit-border-radius: 500px; -moz-border-radius: 500px; border-radius: 500px; width: 115px; margin: 0 0 20px; height: 115px; overflow: hidden; border: 2px solid #c0392b; }
+.boss { -webkit-border-radius: 500px; -moz-border-radius: 500px; border-radius: 500px; width: 115px; margin: 0 0 20px; height: 115px; overflow: hidden; border: 2px solid #68b622; }
 .boss img { max-width: 118px !important;
 margin: -2px 0 0 -1px !important;
  width: 118px;
 float: none !important;
 clear: none !important; max-height: 1000px !important;}
 
-.boss2 { -webkit-border-radius: 500px; -moz-border-radius: 500px; border-radius: 500px; width: 115px; margin: 0 18px 0 0; height: 115px; overflow: hidden; border: 2px solid #c0392b; display: inline-block;
+.boss2 { -webkit-border-radius: 500px; -moz-border-radius: 500px; border-radius: 500px; width: 115px; margin: 0 18px 0 0; height: 115px; overflow: hidden; border: 2px solid #fff; display: inline-block;
 float: left;}
 .boss2 img { max-width: 118px !important;
 margin: -2px 0 0 -1px !important;
@@ -15,6 +15,7 @@ margin: -2px 0 0 -1px !important;
 float: none !important;
 clear: none !important; max-height: 1000px !important;}
 
+.span6 { padding-top: 35px;}
 
 .imgWrap {
     text-align: center;
@@ -26,8 +27,8 @@ clear: none !important; max-height: 1000px !important;}
 .logoFooter { margin: 9px 0 0 11px; }
 
 .navbar-inverse .nav li.dropdown > a:hover .caret {
-  border-top-color: #c0392b;
-  border-bottom-color: #c0392b;
+  border-top-color: #68b622;
+  border-bottom-color: #68b622;
 }
 
 .navbar-inverse .nav li.dropdown > a:focus .caret, .navbar-inverse .nav li.dropdown > a:active .caret  {border-top-color: #FFF !important;
@@ -64,7 +65,7 @@ margin: 92px 0 0 116px !important;
 }
 
 .projects .span4:hover .desc {
-background-color: #c0392b;
+background-color: #68b622;
 color: #FFF;
 }
 
@@ -256,11 +257,21 @@ height: 100px;
 .info { font-size: 14px;}
 .info h5 { font-size: 15px;}
 
-.nav-list > .active > a, .nav-list > .active > a:hover, .nav-list > .active > a:focus  { color: #c0392b; background-color: transparent; text-shadow: none;}
+.nav-list > .active > a, .nav-list > .active > a:hover, .nav-list > .active > a:focus  { color: #68b622; background-color: transparent; text-shadow: none;}
 
 #headerwrap .carousel p { margin-left: 0; }
 
 .rheading{ text-transform: capitalize; }
+
+.span7{ margin-top: 94px; }
+.span7 a{ margin-right: 10px; }
+.span7 a:hover{ color: #fff; }
+
+.linkedin, .twitter, .mail, .telegram{ background-color: #007bb5; color: #fff; padding: 10px 20px; font-weight: bold;}
+.twitter{ background-color:  #55acee;}
+.telegram { background-color: #0088cc;}
+.mail { background-color: #68b622;}
+
 
 
 /* Sticky footer styles

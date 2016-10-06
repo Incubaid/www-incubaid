@@ -11,15 +11,13 @@ block2_text = "We are eco-conscience and only support companies that make a true
 block3_header = "Contact"
 block3_text = ['Idola Business Center', 'Antwerpse Steenweg 19', '9080 Lochristi, Belgium', 'E-mail: info@incubaid.com']
 
-<<<<<<< HEAD
+
 copyright = "© Incubaid. All rights reserved"
-+++
-=======
 
-copyright = "© Incubaid. All rights reserved."
+
 
 +++
 
 
 
->>>>>>> master
+

@@ -2,35 +2,39 @@
 #Don't remove title!
 title = "Green IT Globe"
 +++
-### Strategy & Funding
+### Green IT Globe (GIG)
 
-![image](img/logo-cf.png)
+![http://www.greenitglobe.com/images/logo.png](http://www.greenitglobe.com/images/logo.png)
 
-##### Founded:
+##### Founded in 2015
 
-2011 (from out of incubaid)
+GIG was founded by Kristof De Spiegeleer and teamed up with co-founder and CEO, Willem Hendrickx, a prominent technology and telecoms executive, most recently President of Alcatel EMEA. GIG has over 80 employees and offices in Ghent, Dubai and Cairo.
 
-##### Headquarters:
+##### Building a Green, Democratic and Safe Internet
 
-Ghent (Belgium)
+Today, 90% of the cloud is powered by Amazon, Google and Microsoft on large hyperscale datacenters costing approximately >$1 billion each.  Demand for IT capacity is far outstripping the available cloud capacity due to new applications like Big Data, Internet of Things (IoT) and Artificial Intelligence. The existing hyperscale cloud architecture can not cope with this outsize demand as the requirements for land, power and funding are just too great. In the next decade, the global internet infrastructure needs another 4,000 hyperscale datacenters ($1bn+ each) to meet demand which would cost $ trillions - an impossible amount of money.
 
-##### Activities:
+##### Product Design to Deliver IT as Energy
 
--   CloudFounders created one of the most scalable & high performance & reliable Software Defined Storage layers. This can be used as foundation for any cloud platform.
--   CloudFounders created the first Software Defined Storage Platform compatible with VMWare, OpenStack and HyperV.
--   On top of its storage platform CloudFounders has also created an exciting converged infrastructure platform delivering unseen performance & good TCO.
+Product Design After 15 Years of Development: GIG’s performance and cost advantages are due primarily to the following key factors: 
+-   GIG racks are located in the same place as users (so-called “edge” networks) which places content, communication and capacity close to users, while re-using existing and available datacenter space
+-   GIG owns its full integrated software stack - and therefore does not pay away substantial IP margin to multiple software vendors, such as VMware, Microsoft, IBM, HP and many others;
+-   GIG racks can be rolled out modularly to meet capacity requirements as they arise - the production cycle is about 1 month from order to install so GIG can deliver invest against pre-agreed orders
 
 ##### Target Market:
 
--   IT Channel Partners selling to SME & Enterprise
--   Service & Cloud Providers
--   Enterprise storage optimized for the performance required to efficiently run a highly scalable number of virtual machines with IO comparable to traditional SAN vendors.
--   Europe, US and Middle East.
+GIG has formed Joint Ventures and is covering following geographies
+-   Europe
+-   Russia
+-   Middle East
+-   South Africa
+-   Sub Saharan Africa
+-   USA and Canada
 
-##### Strategy:
-
-Easy to install software on top of any virtualization platform.
 
 ##### Website:
 
-[www.cloudfounders.com](http://www.cloudfounders.com)
+[www.greenitglobe.com](http://www.greenitglobe.com)
+
+
+

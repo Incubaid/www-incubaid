@@ -4,7 +4,7 @@ title = "Itsyou.online"
 +++
 ### Itsyou.online Blockchain Identity Management
 
-![https://goo.gl/images/Y3kTbo](https://goo.gl/images/Y3kTbo)
+![http://www.ensygnia.com/wp-content/uploads/Identity-accordion-image.png](http://www.ensygnia.com/wp-content/uploads/Identity-accordion-image.png)
 
 ##### Founded in 2015
 

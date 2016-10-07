@@ -2,19 +2,19 @@
 #Don't remove title!
 title = "Open vStorage"
 +++
-### Open vStorage
+### Open vStorage Distributed Block Store
 
 ![http://www.openvstorage.com/wp-content/uploads/2016/05/OVS_LOGO.png](http://www.openvstorage.com/wp-content/uploads/2016/05/OVS_LOGO.png)
 
-##### Founded: 2013
+##### Founded in 2013
 
 Open vStorage is the world's first distributed block store for advanced storage workloads: VM-centric storage, vDisks, Docker, Databases, NAS, SAN, archives, etc. The company is open-source driven and publishes the storage acceleration software on its website. It has customers in the USA, India, Asia and Europe.
 
-##### Member of Green IT Globe: 2015 
+##### Became member of Green IT Globe in 2015 
 
 Green IT Globe has embedded Open vStorage as storage management and acceleration software and is actively deploying IT capacity using its G8 (generate) systems.  
 
-##### Milestones:
+##### Company and Technology Milestones
 
 -   2013 Kristof De Spiegeleer and Akash Saraf found the company, with headquarters in Ghent
 -   2013 Opening of offices in India and the USA

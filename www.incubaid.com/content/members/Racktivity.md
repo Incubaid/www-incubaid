@@ -2,7 +2,7 @@
 #Don't remove title!
 title = "Racktivity"
 +++
-### 100% Green IT Globe Company for Energy Management
+### 100% Green IT Globe Company
 
 ![image](img/racktivity_logo.png)
 
@@ -10,7 +10,7 @@ title = "Racktivity"
 
 Racktivity launched in 2009 with the ambition to make datacenters eco-friendly and green. Datacenters are globally massive consumers of electricity. Millions of servers are running without knowledge or insights in efficiency and power utilization. Racktivity has a portfolio of energy management systems for datacenter racks and individual servers, in which the uptime of the servers can also be remotely managed.
 
-Green IT Globe has done a 100% acquisition of Racktivity:
+**Green IT Globe has realized a 100% acquisition of Racktivity:**
 
 -   Energy management technology and intelectual property is controlled by GIG 
 -   Product roadmap and new innovations are integrated with Green IT Globe

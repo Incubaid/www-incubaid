@@ -12,7 +12,7 @@ Amplidata’s primary offering is Himalaya, an advanced object storage software 
 
 ##### Exit: 2015
 
-Western Digital Corporation (NASDAQ: WDC) acquired Amplidata to supports strategy to expand into higher value storage platforms and systems that deliver breakthrough value and scalability to address the massive growth in storage requirements in cloud data centers.
+Western Digital Corporation (NASDAQ: WDC) acquired Amplidata to support strategy to expand into higher value storage platforms and systems that deliver breakthrough value and scalability to address the massive growth in storage requirements in cloud data centers.
 
 ##### Milestones:
 

@@ -10,13 +10,13 @@ title = "Dacentec"
 
 ##### Founded: 2009
 
-Dacentec was Incubaid's first datacenter facility in North America. The datacenter was the one of the first energy-neutral datacenter in the world, powered by renewable energy, and the most green systems powering Dacentec managed services.
+Dacentec was Incubaid's first datacenter facility in North America. The facility was the one of the first energy-neutral datacenter in the world, powered by renewable energ.
 
 Founded in 2009, Dacentec Inc. operates a 23,000 square foot purpose-built data center in Lenoir, North Carolina, and offers a comprehensive suite of dedicated hosting, co-location, and technology-neutral green cloud data center services. CentriLogic will integrate these services with its own hybrid hosting, managed services, and cloud computing solutions.
 
 ##### Exit: 2013
 
-Acquired by CentriLogic in 2013 as Centriligic was expanding its datacenter footprint from Canada and the UK into North America. 
+Acquired by CentriLogic in 2013 as the company was expanding its datacenter footprint from Canada and the UK into North America. 
 
 The addition of this facility, which is located in the Southeast’s most active data center cluster, will provide CentriLogic with direct access to the numerous large organizations with enterprise-class workloads located throughout the region. CentriLogic will also utilize this facility to provide its existing customers with an additional U.S.-based cloud availability zone, along with geographically dispersed managed hosting, co-location, and disaster recovery solutions.
 

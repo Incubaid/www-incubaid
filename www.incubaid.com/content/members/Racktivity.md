@@ -1,6 +1,6 @@
 +++
 #Don't remove title!
-title = "Racktivity Energy Management"
+title = "Racktivity"
 +++
 ### Racktivity Energy Management
 

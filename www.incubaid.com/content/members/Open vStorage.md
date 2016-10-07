@@ -2,9 +2,9 @@
 #Don't remove title!
 title = "Open vStorage"
 +++
-### Strategy & Funding
+### Open vStorage
 
-![/www\_incubaid/.files/img/Open vSolutions\_logo.png](img/Open%20vSolutions_logo.png)
+![http://www.openvstorage.com/wp-content/uploads/2016/05/OVS_LOGO.png](http://www.openvstorage.com/wp-content/uploads/2016/05/OVS_LOGO.png)
 
 ##### Founded:
 

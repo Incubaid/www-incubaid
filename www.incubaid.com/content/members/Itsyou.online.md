@@ -2,24 +2,22 @@
 #Don't remove title!
 title = "Itsyou.online"
 +++
-### Strategy & Funding
+### Itsyou.online Blockchain Identity Management
 
-![image](img/Mothership1_logo.png)
+![https://goo.gl/images/Y3kTbo](https://goo.gl/images/Y3kTbo)
 
-##### Founded:
+##### Founded in 2015
 
-2011 (from out of incubaid)
+Blockchain driven identity management system founded as research project at Green IT Globe. Early-stage startup company managed by Incubaid, and privately funded by the founders and Green IT Globe.
 
-##### Headquarters:
+##### Product Design
 
-Ghent (Belgium)
+Itsyou.online is a web-based service using blockchain distributed ledger to keep track of online interaction in which you provide identity information. As a persona you can release only the necessary parts of identity information needed to complete an online transaction: e-commerce purchase, web registration or contract signature.
 
-Canada (Toronto)
+##### Why Itsyou.online?
 
-##### Activities:
-
-Mothership1 is an innovative Cloud development and deployment platform that delivers IT resources at unprecedented speeds. By integrating multiple functions within a single Cloud Space portal that is available "everyware anyware", users can easily access, provision, and manage virtual machines running on SSD storage, S3 compatible storage buckets, cloud desktops, and ready-to-go applications. Built with speed, security, and simplicity in mind, Mothership1 challenges the status quo and promises to set a new industry standard - globally and beyond. Mothership1 is headquartered in Toronto, Canada, & Lochristi, Belgium.
+At Incubaid and Green IT Globe we believe in our privacy rights. Privacy is a human right and should not be controlled by commercial organizations such as Facebook, Alphabet (Google) and Microsoft (LinkedIn). Our project is an open-source project using blockchain technology in which we eliminate the middle-man. Your identity is in your hands and is being managed directly with you, while all transactions about and around your identity are being executed on a public ledger. This also means that parties dealing with you as a persona are protected and are guaranteed about the integrity of the transaction.   
 
 ##### Website:
 
-[www.mothership1.com](http://www.mothership1.com)
+[www.itsyou.online](http://www.itsyou.online)

@@ -15,7 +15,7 @@ DataCenter Technologies (DCT) was Incubaid's first storage optimization software
 
 ##### Exit: 2005
 
-DCD was acquired by Veritas in 2005, before it became Symantec. Symantec is one of the largest software companies in the world. DCT was a privately held maker of data reduction and capacity optimization software for disk-based backup with offices in Belgium and Foster City, California.
+DCT was acquired by Veritas in 2005, before it became Symantec. Symantec is one of the largest software companies in the world. DCT was a privately held maker of data reduction and capacity optimization software for disk-based backup with offices in Belgium and Foster City, California.
 
 ##### Milestones:
 

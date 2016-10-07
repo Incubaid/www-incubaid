@@ -2,40 +2,29 @@
 #Don't remove title!
 title = "Rogerthat"
 +++
-### Strategy & Funding
+### Rogerthat: OneApp for Mobile
 
 ![image](img/rogerthat.png)
 
-##### Founded:
+##### Founded in 2011
 
-2011
+Rogerthat is an enterprise-grade and telco-powered communication platform driven as open-source project.
 
-##### Investors:
+##### OneApp Product Design for Operators
 
-Carl D'Halluin, Geert Audenaert and Incubaid
+Mobile operators looking to provide more unified data services to its subscribers can benefit from the OneApp infrastructure to provide:
 
-##### Headquarters:
+-   mobile data cloud for storing personal information, pictures, videos, etc
+-   mobile communication platform for community formation or subscriber marketing
+-   mobile content cloud for premium content and delivery of content local to the subscriber
 
-Ghent (Belgium)
+##### OneApp Product Design for Enterprises
 
-##### Activities:
+Rogerthat is a piece of infrastructure that simplifies development, deployment, training and security problems compared to a traditional mobile communication systems. Rogerthat consists of one single app for your company, which can be extended by the various departments, building their mobile solutions inside the ‘company employees app’. Employees install the OneApp on their mobile phone. The app is automatically enriched with functionalities based on the employee’s role or interests. When an enterprise department releases a new solution or solution update, this is automatically pushed to the employee OneApp, without requiring any action by the employee.
 
-More and more people are using mobile devices like smartphones and tablets every day. Companies are rolling out more mobile services and custom web apps for staff and customers. New devices, services and applications are now core to the market proposition as the web becomes more mobile each day.
+##### Whye Rogerthat?
 
-As part of this evolution, Application to Person communication or A2P is critical as it lets you streamline communication processes using realtime interactive messages with your customers, partners, employees, users or any kind of subscribers.
-
-Today's A2P market is largely unstructured. Each company still has to develop and deploy its own custom web or mobile app frontend.
-
-Rogerthat offers a much cheaper way to enables a real time, bidrectional and interactive spam free relation channel between services of companies and their customers. Disruptive technology was required to allow always on & responsive communication with the mobile devices.
-
-##### Target Market:
-
--   Organizations who quickly need a smartphone frontend for their applications
--   Organizations who want to automate business processes by including human interaction or notification steps
--   Customer service organizations and helpdesks who want to enhance their IVR systems with smartphone-based self-service tools
--   Marketeers who want to survey an audience
--   Organizations who need to have rich mobile presence but do not want to invest in smartphone apps on all smartphone platforms
--   ISVs / SAAS providers who are looking for fast and powerful communication tools for their clouds and applications
+We live in world where more and more governments and large commercial giants are trying to read our personal information. The OneApp infrastructure, powered by Rogerthat enables enterprises and operators to provide a true secure and private communication and cloud platform to its users.
 
 ##### Website:
 

@@ -8,19 +8,28 @@ title = "Rivine.io"
 
 ##### Founded in 2016
 
-Green IT Globe is not only leading the IT revolution, but also wants to push the boundaries of the current blockchain technology to new dimensions. Incubaid and Green IT Globe have started Rivine.io as pri 
+[Green IT Globe](http://www.greenitglobe.com) is not only leading the IT as Energy evolution, but is also pushing the boundaries of the current blockchain technology into new orbits. Incubaid and Green IT Globe have started Rivine.io as technology-led private blockchain initiative as alternative to having a fully public and uncontrolled network and state machine secured by cryptoeconomics (eg. proof of work, proof of stake). With Rivine.io it is also possible to have a blockchain technology framework where access permissions are regulated by the [Itsyou.online](http://www.itsyou.online) user, with rights to modify or even read the blockchain state restricted to a new public-private voting mechanism, while still maintaining many kinds of partial guarantees of authenticity and decentralization that blockchains provide. 
 
 ##### Product Design
 
-Itsyou.online is a web-based service using blockchain distributed ledger to keep track of online interaction in which you provide identity information. As a persona you can release only the necessary parts of identity information needed to complete an online transaction: e-commerce purchase, web registration or contract signature.
+Rivine.io is driving a service model on top of new blockchain models. Rivine.io and [Green IT Globe](http://www.greenitglobe.com) can provision the ultimate compute power to keep the private blockchain growing and secured, while users can execute more and more secure transactions. Using the mobile application framework of [Rogerthat](http://www.rogerthat.net) you can enable mobile users to define business processes directly on their private blockchain. This has tremendous value to the end-user in terms of privacy and secure execution of transaction, without having a service provider acting as middleman.  
 
 ##### Why Rivine.io?
 
-At Incubaid and Green IT Globe we believe in our privacy rights. Privacy is a human right and should not be controlled by commercial organizations such as Facebook, Alphabet (Google) and Microsoft (LinkedIn). Our project is an open-source project using blockchain technology in which we eliminate the middle-man. Your identity is in your hands and is being managed directly with you, while all transactions about and around your identity are being executed on a public ledger. This also means that parties dealing with you as a persona are protected and are guaranteed about the integrity of the transaction.   
+At Incubaid we believe a public blockchain model is not scalable, nor usable:
+
+-   transactions and business processes should not need to become visible or transparent
+-   mining of the distributed ledger becomes a very polluting business, example bitcoin
+-   blockchain implementations should not be overly complex and have to be simplified
+-   mining should be done by green companies, providing low-energy compute capacity
 
 #### Technology
 
-Itsyou.online is using the blockchain technology from [Rivine.io](http://www.incubaid.com/members/Rivine.io/).
+Our ultimate goal is to become a platform-as-a-service partner to many businesses that want to benefit from green and private blockchain
+
+-   Itsyou.online identity management
+-   Rogerthat enterprise mobility 
+-   Bettercoin virtual currency
 
 ##### Website:
 

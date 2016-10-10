@@ -8,7 +8,7 @@ title = "Bettercoin"
 
 ##### Founded in 2016
 
-Bettercoin is a technology initiative launched by Incubaid and a group of 50 people in order to define a green, non-speculative blockchain currency different than Bitcoin. Bitcoin is a power-hungry currency - mining of 1 bitcoin consumes more than 300 pounds of fossil fuel.
+Bettercoin is a technology initiative launched by Green IT Globe & Incubaid in order to define a green, non-speculative blockchain currency different than Bitcoin. Bitcoin is a power-hungry currency - mining of 1 bitcoin consumes more than 300 pounds of fossil fuel.
 
 ##### Currency Design
 

@@ -8,7 +8,30 @@ title = "Bettercoin"
 
 ##### Founded in 2016
 
-Bettercoin is a technology initiative launched by Green IT Globe & Incubaid in order to define a green, non-speculative blockchain currency different than Bitcoin. Bitcoin is a power-hungry currency - mining of 1 bitcoin consumes more than 300 pounds of fossil fuel.
+Bettercoin is a technology initiative launched by Green IT Globe, Incubaid & a group of 50 independant investors in order to define a green, non-speculative blockchain currency different than Bitcoin. Bitcoin is a power-hungry currency - mining of 1 bitcoin consumes more than 300 pounds of fossil fuel.
+
+##### Why Bettercoin?
+
+The world is more and more driven by greed, war and consumption which leads to more and more pollution and poverty. 
+
+The Bettercoin.org project is driven by people with ambition to do good and use the latest innovations and technology to create a safe and stabel currency.  
+
+The Bettercoin goal
+
+- inflation proof
+- a safe payment system globally usable
+- not used for criminal activities
+- GREEN: no mining required
+- no speculation: the value of the coin cannot be manipulated by buying or selling more
+- super easy to use (also by non IT capable users)
+
+Bettercoin's will be used to invest in 
+
+-   social responsible projects in emerging markets
+-   a more scalable and privacy-protected democratic Internet
+-   delivering low-cost low-energy consuming mobile connectivity (allow the other billion to connect to information on internet)
+
+Feel free to join our Bettecoin movement as stakeholder, shareholder, project investor, or simply because you care.
 
 ##### Currency Design
 
@@ -19,17 +42,6 @@ The objective for bettercoin is to provide society with a safe and stable digita
 -   Speculation-free, backed by real assets and social responsible projects
 -   Secure identification and privacy regulated by Itsyou.online
 -   Community driven financial institution without central command
-
-##### Why Bettercoin?
-
-The world is more and more driven by greed, war and consumption which leads to more and more pollution and poverty. The Bettercoin.org project is driven by people with ambition to do good and use the latest innovations and technology to create a safe and stabel currency.  
-
--   Investment in green and eco-friendy digital economies 
--   Investment in social responsible projects in emerging markets
--   Investment in a more scalable and privacy-protected democratic Internet
--   Investment in delivering low-cost low-energy consuming mobile connectivity
-
-Feel free to join our Bettecoin movement as stakeholder, shareholder, project investor, or simply because you care.
 
 ##### Website:
 

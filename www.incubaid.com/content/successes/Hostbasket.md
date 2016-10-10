@@ -28,4 +28,5 @@ The activities of Hostbasket were centered around domain names, shared hosting, 
 
 ##### Website:
 
-[www.hostbasket.com](http://www.hostbasket.com)
+<a href="http://www.hostbasket.com" target="_blank">www.hostbasket.com</a>
+

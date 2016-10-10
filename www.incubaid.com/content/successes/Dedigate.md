@@ -34,4 +34,5 @@ Dedigate provides managed dedicated, secure hosting services to enterprise custo
 
 ##### Website:
 
-[www.terremark.com](http://www.terremark.com)
+<a href="http://www.terremark.com" target="_blank">www.terremark.com</a>
+

@@ -27,4 +27,5 @@ The company has prominent investors such as Hummingbird Ventures and Belgacom. A
 
 ##### Website:
 
-[www.awingu.com](http://www.awingu.com)
+<a href="http://www.awingu.com" target="_blank">www.awingu.com</a>
+

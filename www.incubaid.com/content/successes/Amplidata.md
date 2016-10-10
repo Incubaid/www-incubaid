@@ -30,4 +30,5 @@ The storage ecosystem continues to transform with a greater focus on how data is
 
 ##### Website:
 
-[www.amplidata.com](http://www.amplidata.com)
+<a href="http://www.amplidata.com" target="_blank">www.amplidata.com</a>
+

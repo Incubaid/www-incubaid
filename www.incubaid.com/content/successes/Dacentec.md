@@ -30,4 +30,5 @@ Dacentec and Centrilogic is a leading regional provider of hosting services, has
 
 ##### Website:
 
-[www.centrilogic.com](http://www.centrilogic.com)
+<a href="http://www.centrilogic.com" target="_blank">www.centrilogic.com</a>
+

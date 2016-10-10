@@ -25,4 +25,5 @@ DCT was acquired by Veritas in 2005, before it became Symantec. Symantec is one 
 
 ##### Website:
 
-[www.symantec.com](http://www.symantec.com)
+<a href="http://www.symantec.com" target="_blank">www.symantec.com</a>
+

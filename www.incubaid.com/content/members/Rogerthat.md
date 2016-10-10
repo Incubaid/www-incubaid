@@ -28,4 +28,5 @@ We live in world where more and more governments and large commercial giants are
 
 ##### Website:
 
-[www.rogerthat.net](http://www.rogerthat.net)
+<a href="http://www.rogerthat.net" target="_blank">www.rogerthat.net</a>
+

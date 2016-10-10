@@ -36,7 +36,8 @@ GIG has formed Joint Ventures and is covering following geographies:
 
 ##### Website:
 
-[www.greenitglobe.com](http://www.greenitglobe.com)
+
+<a href="http://www.greenitglobe.com" target="_blank">www.greenitglobe.com</a>
 
 
 

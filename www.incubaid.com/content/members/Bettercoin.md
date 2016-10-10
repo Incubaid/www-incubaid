@@ -45,4 +45,4 @@ The objective for bettercoin is to provide society with a safe and stable digita
 
 ##### Website:
 
-Under construction: [www.bettercoin.org](http://www.bettercoin.org)
+Under construction: <a href="http://www.bettercoin.org" target="_blank">www.bettercoin.org</a>

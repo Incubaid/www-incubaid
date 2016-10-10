@@ -24,4 +24,5 @@ Racktivity was formed with the aim of helping customers understand and control e
 
 ##### Website:
 
-[www.racktivity.com](http://www.racktivity.com)
+
+<a href="http://www.racktivity.com" target="_blank">www.racktivity.com</a>

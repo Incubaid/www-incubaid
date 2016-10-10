@@ -19,4 +19,5 @@ It has customers in the USA, India, Asia and Europe.
 
 ##### Website:
 
-[www.openvstorage.com](http://www.openvstorage.com)
+
+<a href="http://www.openvstorage.com" target="_blank">www.openvstorage.com</a>

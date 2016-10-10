@@ -33,4 +33,5 @@ Acquired by SUN Microsystems (now Oracle) in 2008. It enabled all developers wor
 
 ##### Website:
 
-[www.virtualbox.org](http://www.virtualbox.org)
+<a href="http://www.virtualbox.org" target="_blank">www.virtualbox.org</a>
+

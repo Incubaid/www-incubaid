@@ -30,4 +30,4 @@ Q-layer’s technology simplifies and automates the deployment and management of
 
 ##### Website:
 
-[www.oracle.com](http://www.oracle.com)
+<a href="http://www.oracle.com" target="_blank">www.oracle.com</a>

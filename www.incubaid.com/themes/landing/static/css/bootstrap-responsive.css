@@ -956,9 +956,9 @@
   .navbar-fixed-bottom {
     position: static;
   }
-  .navbar-fixed-top {
+  /*.navbar-fixed-top {
     margin-bottom: 20px;
-  }
+  }*/
   .navbar-fixed-bottom {
     margin-top: 20px;
   }
@@ -1090,6 +1090,7 @@
   .nav-collapse.collapse {
     height: 0;
     overflow: hidden;
+    float: left;
   }
   .navbar .btn-navbar {
     display: block;
@@ -1100,6 +1101,11 @@
   }
 }
 
+@media (max-width: 768px) {
+  .justWrap {
+    max-height: 800px;
+  }
+}
 @media (min-width: 980px) {
   .nav-collapse.collapse {
     height: auto !important;

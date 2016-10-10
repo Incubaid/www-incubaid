@@ -6,7 +6,7 @@ title = "Green IT Globe"
 
 ![http://www.greenitglobe.com/images/logo.png](http://www.greenitglobe.com/images/logo.png)
 
-##### Founded in 2015
+##### Founded in 2009
 
 GIG was founded by Kristof De Spiegeleer and teamed up with co-founder and CEO, Willem Hendrickx, a prominent technology and telecoms executive, most recently President of Alcatel EMEA. GIG has over 80 employees and offices in Ghent, Dubai and Cairo.
 
@@ -36,7 +36,8 @@ GIG has formed Joint Ventures and is covering following geographies:
 
 ##### Website:
 
-[www.greenitglobe.com](http://www.greenitglobe.com)
+
+<a href="http://www.greenitglobe.com" target="_blank">www.greenitglobe.com</a>
 
 
 

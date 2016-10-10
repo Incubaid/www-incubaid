@@ -30,8 +30,9 @@ Dedigate provides managed dedicated, secure hosting services to enterprise custo
 
 -   Part of Verizon, a global telecom giant that acquired Terremark and all the cloud activities if Dedigate
 -   Terremark was acquired by Verizon in order to boost its cloud strategy [Read News Announcement Verizon](http://newscenter.verizon.com/press-releases/verizon/2011/verizon-to-acquire-terremark.html)
--   Dedigate is the technology foundration and runs [The Enterprise Cloud](http://www.terremark.com/services/cloudcomputing/theenterprisecloud.aspx)
+-   Dedigate is the technology foundation for the Verizon cloud: [The Enterprise Cloud](http://www.terremark.com/services/cloudcomputing/theenterprisecloud.aspx)
 
 ##### Website:
 
-[www.terremark.com](http://www.terremark.com)
+<a href="http://www.terremark.com" target="_blank">www.terremark.com</a>
+

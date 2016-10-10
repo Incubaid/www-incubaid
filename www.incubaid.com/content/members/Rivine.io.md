@@ -4,7 +4,6 @@ title = "Rivine.io"
 +++
 ### Rivine.io Blockchain Reinvented
 
-![https://blog.blockchain.com/wp-content/uploads/2015/12/Blockchain-Logo-White-1.png](https://blog.blockchain.com/wp-content/uploads/2015/12/Blockchain-Logo-White-1.png)
 <img class="rivine" src="img/rivine.jpg">
 
 ##### Founded in 2016

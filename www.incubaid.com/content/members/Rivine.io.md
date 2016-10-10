@@ -3,12 +3,11 @@
 title = "Rivine.io"
 +++
 ### Rivine.io Blockchain Reinvented
-
 <img class="rivine" src="img/rivine.jpg">
 
 ##### Founded in 2016
 
-[Green IT Globe](http://www.greenitglobe.com) is not only leading the IT as Energy evolution, but is also pushing the boundaries of the current blockchain technology into new orbits. Incubaid and Green IT Globe have started Rivine.io as technology-led private blockchain initiative as alternative to having a fully public and uncontrolled network and state machine secured by cryptoeconomics (eg. proof of work, proof of stake). With Rivine.io it is also possible to have a blockchain technology framework where access permissions are regulated by the [Itsyou.online](http://www.itsyou.online) user, with rights to modify or even read the blockchain state restricted to a new public-private voting mechanism, while still maintaining many kinds of partial guarantees of authenticity and decentralization that blockchains provide. 
+[Green IT Globe](http://www.greenitglobe.com) is not only leading the IT as Energy evolution, but is also pushing the boundaries of the current blockchain technology into new orbits. Incubaid and Green IT Globe have started Rivine.io as technology-led private blockchain initiative as alternative to having a fully public and uncontrolled network and state machine secured by cryptoeconomics (eg. proof of work, proof of stake). With Rivine.io it is also possible to have a blockchain technology framework where access permissions are regulated by the [Itsyou.online](http://www.itsyou.online) user, with rights to modify or even read the blockchain state restricted to a new public-private voting mechanism, while still maintaining many kinds of partial guarantees of authenticity and decentralization that blockchains provide.
 
 ##### Product Design
 
@@ -28,14 +27,9 @@ At Incubaid we believe a public blockchain model is not scalable, nor usable:
 Our ultimate goal is to become a platform-as-a-service partner to many businesses that want to benefit from green and private blockchain
 
 -   Itsyou.online identity management
--   Rogerthat enterprise mobility 
+-   Rogerthat enterprise mobility
 -   Bettercoin virtual currency
 
 ##### Website:
 
 Under construction
-
-
-
-
-

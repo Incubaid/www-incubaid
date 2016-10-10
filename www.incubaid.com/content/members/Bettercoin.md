@@ -18,7 +18,7 @@ The Bettercoin.org project is driven by people with ambition to do good and use 
 
 The Bettercoin goal
 
-- inflation proof
+- inflation proof currency
 - a safe payment system globally usable
 - not used for criminal activities
 - GREEN: no mining required
@@ -37,10 +37,11 @@ Feel free to join our Bettecoin movement as stakeholder, shareholder, project in
 
 The objective for bettercoin is to provide society with a safe and stable digital currency:
 
--   Powered by blockchain distributed ledger technology: rivine.io
--   Powered by mobile-only peer-to-peer payment technology: rogerthat
+-   Powered by blockchain distributed ledger technology: [Rivine.io](http://www.incubaid.com/members/Rivine.io/)
+-   Powered by mobile-only peer-to-peer payment technology: [Rogerthat](http://www.incubaid.com/members/Rogerthat/)
+-   Greenest possible currency with energy consumption measurement: [Racktivity](http://www.incubaid.com/members/Racktivity/)
+-   Secure identification and privacy regulated by Blockchaing solution: [Itsyou.online](http://www.incubaid.com/members/Itsyou.online/)
 -   Speculation-free, backed by real assets and social responsible projects
--   Secure identification and privacy regulated by Itsyou.online
 -   Community driven financial institution without central command
 
 ##### Website:

@@ -12,7 +12,7 @@ block3_header = "Contact"
 block3_text = ['Idola Business Center', 'Antwerpse Steenweg 19', '9080 Lochristi, Belgium', 'E-mail: info@incubaid.com']
 
 
-copyright = "© Incubaid. All rights reserved."
+copyright = "© Green IT Globe. All rights reserved."
 
 +++
 

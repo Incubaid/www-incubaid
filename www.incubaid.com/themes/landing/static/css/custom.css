@@ -275,6 +275,8 @@ a, a:active{color: #68b622; text-decoration: none;}
 a:hover{ opacity: .75;}
 .green-link{ color: #9ebf25;}
 .span6 p {margin-bottom: 0;}
+.info img {max-height: 180px; }
+.span9 p img {margin-top: 35px;}
 
 /* Sticky footer styles
 -------------------------------------------------- */

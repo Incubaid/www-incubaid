@@ -271,8 +271,10 @@ height: 100px;
 .twitter{ background-color:  #55acee;}
 .telegram { background-color: #0088cc;}
 .mail { background-color: #68b622;}
-
-
+a, a:active{color: #68b622; text-decoration: none;}
+a:hover{ opacity: .75;}
+.green-link{ color: #9ebf25;}
+.span6 p {margin-bottom: 0;}
 
 /* Sticky footer styles
 -------------------------------------------------- */

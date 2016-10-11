@@ -2,11 +2,11 @@
 #Don't remove title!
 title = "About The Company"
 +++
-### The Incubator behind [Green IT Globe](http://www.greenitglobe.com)
+### The Incubator behind <a href="http://www.greenitglobe.com" target="_blank">Green IT Globe</a>
 
 Incubaid is a Belgian-based company. We are proud to be based in a neutral country, while doing successful international business. Our neutrality keeps us safe and sound during heavy-weight negotiations with giant companies for investment or acquisition.
 
-We are proud to be part of the [Green IT Globe](http://www.greenitglobe.com) holding company. [Green IT Globe](http://www.greenitglobe.com) combines multiple portfolio technologies into a highly disruptive wholistic cloud computing and storage platform solution.
+We are proud to be part of the <a href="http://www.greenitglobe.com" target="_blank">Green IT Globe</a> holding company. <a href="http://www.greenitglobe.com" target="_blank">Green IT Globe</a> combines multiple portfolio technologies into a highly disruptive wholistic cloud computing and storage platform solution.
 
 The success behind our incubator is based on following principles:
 

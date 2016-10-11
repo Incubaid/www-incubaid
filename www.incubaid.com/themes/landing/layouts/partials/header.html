@@ -7,7 +7,7 @@
           <li class="dropdown"> <a href="introduction/introduction" class="dropdown-toggle">Introduction </b></a> </li>
           <li class="dropdown"> <a href="" class="dropdown-toggle" data-toggle="dropdown">Exits <b class="caret"></b></a>
             <ul class="dropdown-menu">
-              {{ range $element := where .Site.Pages "Section" "successes" }}
+              {{ range $element := where .Site.Pages "Section" "exits" }}
                 <li class=""><a href="{{ $element.RelPermalink }}">{{ $element.Title }}</a></li>
               {{ end }}
             </ul>

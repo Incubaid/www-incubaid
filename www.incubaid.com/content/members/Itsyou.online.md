@@ -23,5 +23,4 @@ Itsyou.online is using the blockchain technology from [Rivine.io](http://www.inc
 
 ##### Website:
 
-<a href="http://www.itsyou.online" target="_blank">www.itsyou.online</a>
-
+<a href="https://itsyou.online/" target="_blank">itsyou.online</a>

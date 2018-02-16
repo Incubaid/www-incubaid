@@ -5,9 +5,7 @@ title = "About The Company"
 
 ### The Incubator supporting <a href="http://www.greenitglobe.com" target="_blank">Green IT Globe</a>
 
-Incubaid is a Belgian-based company. We are proud to be based in a neutral country, while doing successful international business.
-
-Our current active project which about all of our time is <a href="http://www.greenitglobe.com" target="_blank">Green IT Globe</a>.
+Our current active project which takes about all of our time is <a href="http://www.greenitglobe.com" target="_blank">Green IT Globe</a>.
 
 The success behind our incubator is based on following principles:
 

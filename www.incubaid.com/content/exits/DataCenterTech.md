@@ -11,7 +11,8 @@ title = "DataCenterTech"
 
 ##### Founded: 2002
 
-DataCenter Technologies (DCT) was Incubaid's first storage optimization software company, making storage systems in datacenters more efficient and scalable. The company develop a backup appliance product that became a hundred million dollar business for Veritas.
+DataCenter Technologies (DCT) was Incubaid's first storage software company, making storage systems in datacenters more efficient and scalable. The company developed the first data deduplication technology in the world for backup.
+This product is now part of all disk based storage products of Veritas Software (which was also Symantec for a while).
 
 ##### Exit: 2005
 

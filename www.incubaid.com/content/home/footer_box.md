@@ -9,7 +9,7 @@ block2_header = "100% Energy-saving"
 block2_text = "We are eco-conscience and only support companies that make a true contribution to saving the planet and provide sustainable alternatives to society. "
 
 block3_header = "Contact"
-block3_text = ['Idola Business Center', 'Antwerpse Steenweg 19', '9080 Lochristi, Belgium', 'E-mail: info@incubaid.com']
+block3_text = ['Antwerpse Steenweg 19', '9080 Lochristi, Belgium', 'E-mail: info@incubaid.com']
 
 
 copyright = "© Incubaid. All rights reserved"

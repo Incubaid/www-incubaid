@@ -5,7 +5,7 @@ title = "Racktivity"
 
 ![image](img/racktivity_logo.png)
 
-##### Founded in 2009,now part of GreenITGlobe
+##### Founded in 2009, now part of GreenITGlobe
 
 Incubaid has founded Racktivity in 2009, with as goal to make datacenters eco-friendly and green.
 

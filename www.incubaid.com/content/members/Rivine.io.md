@@ -30,7 +30,7 @@ Our ultimate goal is to become a platform-as-a-service partner to many businesse
 
 * Itsyou.online identity management
 * Rogerthat enterprise mobility
-* Bettercoin virtual currency
+* HumanEnergyToken virtual currency
 
 ##### Website:
 

@@ -7,7 +7,7 @@ title = "Rivine.io"
 
 <img class="rivine" src="img/rivine.jpg">
 
-##### Founded in 201
+##### Founded in 2016, now part of GreenITGlobe
 
 Incubaid and <a href="http://www.greenitglobe.com" target="_blank">Green IT Globe</a> have started Rivine.io as technology-led private blockchain initiative as alternative to having a fully public and uncontrolled network and state machine secured by cryptoeconomics (eg. proof of work, proof of stake). With Rivine.io it is also possible to have a blockchain technology framework where access permissions are regulated by the <a href="https://itsyou.online/" target="_blank">Itsyou.online</a> user, with rights to modify or even read the blockchain state restricted to a new public-private voting mechanism, while still maintaining many kinds of partial guarantees of authenticity and decentralization that blockchains provide.
 

@@ -1,6 +1,6 @@
 +++
 #Don't remove title!
-title = "HET"
+title = "Human Energy Token"
 +++
 
 ### Human Energy Token
@@ -9,7 +9,7 @@ title = "HET"
 
 ##### Founded in 2016
 
-Human Energy Token is a concept initiative launched by Green IT Globe and Incubaid in order to define a green, non-speculative blockchain currency different than Bitcoin. Bitcoin is a power-hungry currency - mining of 1 bitcoin consumes more than 300 pounds of fossil fuel.
+Human Energy Token is a concept initiative launched by Incubaid in order to define a green, non-speculative blockchain currency different than Bitcoin. Bitcoin is a power-hungry currency - mining of 1 bitcoin consumes more than 300 pounds of fossil fuel.
 
 ##### Why Human Energy Token?
 

@@ -7,7 +7,7 @@ title = "Itsyou.online"
 
 ![http://www.ensygnia.com/wp-content/uploads/Identity-accordion-image.png](http://www.ensygnia.com/wp-content/uploads/Identity-accordion-image.png)
 
-##### Founded in 2015
+##### Founded in 2015, now part of GreenITGlobe
 
 Blockchain driven identity management system founded as research project at Incubaid.
 Itsyou.Online is now part of GreenITGlobe.

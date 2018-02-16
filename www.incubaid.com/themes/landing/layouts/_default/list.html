@@ -1,47 +1,51 @@
-{{ if eq .Title "Members" }}
-	{{ partial "head.html" . }}
-	{{ partial "header.html" . }}
-	<div id="wrap">
-		<div id="main">
-			<div id="herowrap">
-				<div class="container">
-					<div class="row">
-				    	<h3>{{ .Title }}</h3>
-					</div>
+{{ if eq .Title "Members" }} {{ partial "head.html" . }} {{ partial "header.html" . }}
+<div id="wrap">
+	<div id="main">
+		<div id="herowrap">
+			<div class="container">
+				<div class="row">
+					<h3>{{ .Title }}</h3>
 				</div>
 			</div>
-			<div class="white">
-				<div class="container page-container">
-					<div class="row">
-						<div class="span3">
-	            <aside>
-								<div class="widget">
-									<h4 class="rheading">{{ .Title }}<span></span></h4>
-									<ul class="nav nav-list tree">
-										{{ range $element := .Data.Pages }}
-	                    <li class="active-item active"><a href="{{ $element.RelPermalink }}">{{ $element.Title }}</a></li>
-										{{ end }}
-									</ul>
-								</div>
-							</aside>
-						</div>
-						<div class="info clearfix">
-							<div class="span9">
-	              <h2>{{ .Title }}</h2>
-	              <p>
-	                Incubaid creates & stimulates companies around datacenters and cloud computing. Read more here about our active member companies:
-	              </p>
-	              <ul>
-	                {{ range $element := .Data.Pages }}
-	                    <li class="active-item active"><a href="{{ $element.RelPermalink }}">{{ $element.Title }}</a></li>
-	                {{ end }}
-	              </ul>
+		</div>
+		<div class="white">
+			<div class="container page-container">
+				<div class="row">
+					<div class="span3">
+						<aside>
+							<div class="widget">
+								<h4 class="rheading">{{ .Title }}
+									<span></span>
+								</h4>
+								<ul class="nav nav-list tree">
+									{{ range $element := .Data.Pages }}
+									<li class="active-item active">
+										<a href="{{ $element.RelPermalink }}">{{ $element.Title }}</a>
+									</li>
+									{{ end }}
+								</ul>
 							</div>
+						</aside>
+					</div>
+					<div class="info clearfix">
+						<div class="span9">
+							<h2>{{ .Title }}</h2>
+							<p>
+								Incubaid creates & helps to grow companies around datacenters and cloud computing. Read more here about our active member
+								companies:
+							</p>
+							<ul>
+								{{ range $element := .Data.Pages }}
+								<li class="active-item active">
+									<a href="{{ $element.RelPermalink }}">{{ $element.Title }}</a>
+								</li>
+								{{ end }}
+							</ul>
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
 	</div>
-	{{ partial "home_page/footer.html" . }}
-{{ end }}
+</div>
+{{ partial "home_page/footer.html" . }} {{ end }}

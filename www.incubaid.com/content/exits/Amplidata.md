@@ -9,7 +9,7 @@ title = "Amplidata"
 
 ##### Founded: 2008
 
-Founded by Kristof in 2008 to resolve data storage limitations. At that time storage was very slow & expensive and non scalable at all.
+Founded by Incubaid in 2008 to resolve data storage limitations. At that time storage was very slow & expensive and non scalable at all.
 
 Amplidata’s primary offering is Himalaya, an advanced object storage software product that enables scale-out software-defined storage systems. By delivering industry leading scalability with the efficiency, resiliency, and flexibility required for demanding cloud data center environments, Amplidata’s products and technology have earned the trust of leading OEMs and cloud service providers.
 

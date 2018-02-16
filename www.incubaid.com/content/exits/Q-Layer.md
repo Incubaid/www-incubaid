@@ -9,7 +9,7 @@ title = "Q-Layer"
 
 ##### Founded: 2006
 
-Q-layer was founded by Kristof in 2006 to build the foundation of what many people today call the cloud.
+Q-layer was founded by Kristof & co-founders in 2006 to build the foundation of what many people today call the cloud.
 Kristof is passionate about automation systems and could not understand why they were so complex and not effective.
 In Q-layer a new system was invented which allowed highly complex systems to be managed but even more importantly to allow the automation system to grow without adding to the complexity.
 The approach of Q-layer is still being used in any of the new startups of incubaid.

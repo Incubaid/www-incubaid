@@ -11,9 +11,9 @@ Our current active project which about all of our time is <a href="http://www.gr
 
 The success behind our incubator is based on following principles:
 
-* Independence - we keep our portfolio companies 100% indepedent, early-stage or late-stage, during the complete lifecycle
-* Invention - invention has be disruptive, and not promising incremental added-value. We only work with the best inventors
-* International - the world has been globalized since decades, our teams are working from all continents doing deals
+* Values - we find it important that our startups follow a set of [values](https://docs.grid.tf/dividi/values/src/branch/master/README.md)
+* Invention - invention has be disruptive, and not promising incremental added-value.
+* International - the world has been globalized since decades, our teams are working from all continents.
 
 Incubaid is also very proud to be a true social responsible company, in following domains:
 
@@ -22,7 +22,9 @@ Incubaid is also very proud to be a true social responsible company, in followin
 * Open-source software - giving technology back to the mass, collaborate and innovate on a global level
 * Employment - enabling technology to be deployed locally, creating jobs and opportunities
 
-Incubaid is software-driven. We automate processes as much as we can to help our portfolio companies to gain efficiencies while growing much faster than any other incubator or investor can do. We control different software domains and portfolio companies:
+Incubaid is software-driven. We automate processes as much as we can to help our portfolio companies to gain efficiencies while growing much faster than any other incubator or investor can do.
+
+We help different software domains and portfolio companies:
 
 * Blockchain technology
 * Big data compute platforms

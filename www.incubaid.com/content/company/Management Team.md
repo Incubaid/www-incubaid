@@ -5,7 +5,6 @@ title = "Leadership"
 kristof_header = "Kristof De Spiegeleer - Founder and Technologist"
 kristof_pic = "img/foto-kristof.png"
 kristof_bio = "https://be.linkedin.com/in/despiegk"
-kristof_twi = "http://www.twitter.com"
 kristof_mail = "mailto:kristof@incubaid.com>"
 kristof_tele = "https://telegram.org/despiegk"
 
@@ -43,12 +42,8 @@ peter_bio = "https://be.linkedin.com/in/petervanderhenst"
 peter_twi = "http://www.twitter.com"
 peter_mail = "mailto:peter@incubaid.com"
 peter_tele = "https://telegram.org/pvanlaet"
-
-
-
 +++
 
 ### Management Team
 
-Incubaid is managed by an international team with a unique blend of skiles: technology inventions leading to disruption, entrepreneurial and investment experience to grow companies, go-to-market and strategic business development to reach channels and geographies.
-
+Incubaid is managed by an international team with a unique blend of skills: technology inventions leading to disruption, entrepreneurial and investment experience to grow companies, go-to-market and strategic business development to reach channels and geographies.

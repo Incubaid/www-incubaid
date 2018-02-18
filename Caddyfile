@@ -4,8 +4,8 @@ http://incubaid.com:83, http://www.incubaid.com:83 {
     root www.incubaid.com/site
     git {
         repo git@github.com:Incubaid/www-incubaid.git
-        branch production
-        interval 300
+        branch master
+        interval 60
         key ../keys/id_rsa
         path ../..
         then hugo -s www.incubaid.com

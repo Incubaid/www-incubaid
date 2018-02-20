@@ -4,7 +4,7 @@ title = "Rogerthat"
 +++
 ### Rogerthat: OneApp for Mobile
 
-![image](img/rogerthat.png)
+![image](https://www.rogerthat.net/wp-content/uploads/2014/10/320.png)
 
 ##### History
 
@@ -30,4 +30,3 @@ We live in world where more and more governments and large commercial giants are
 ##### Website:
 
 <a href="http://www.rogerthat.net" target="_blank">www.rogerthat.net</a>
-

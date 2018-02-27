@@ -3,9 +3,8 @@
 title = "Amplidata"
 +++
 
-### Amplidata
-
 ![image](img/amplidata-small.png)
+### Amplidata
 
 ##### Founded: 2008
 

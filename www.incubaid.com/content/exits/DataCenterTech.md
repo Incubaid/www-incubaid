@@ -3,11 +3,10 @@
 title = "DataCenterTech"
 +++
 
-### DataCenter Technologies (DCT)
-
 ![image](img/logo-dct.png)
 
 ![image](img//logo-symantec.png)
+### DataCenter Technologies (DCT)
 
 ##### Founded: 2002
 

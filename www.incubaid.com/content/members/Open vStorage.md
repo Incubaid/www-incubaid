@@ -3,9 +3,9 @@
 title = "Open vStorage"
 +++
 
-### Open vStorage Distributed Block Store
-
 ![http://www.openvstorage.com/wp-content/uploads/2016/10/Logo-Opt3_small.png](http://www.openvstorage.com/wp-content/uploads/2016/10/Logo-Opt3_small.png)
+
+### Open vStorage Distributed Block Store
 
 Kristof founded OpenvStorage back in 2008, OVS was working closely together with [Amplidata](http://incubaid.com/exits/Amplidata/).
 

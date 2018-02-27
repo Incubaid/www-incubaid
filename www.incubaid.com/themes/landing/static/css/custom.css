@@ -34,7 +34,7 @@ clear: none !important; max-height: 1000px !important;}
 .navbar-inverse .nav li.dropdown > a:focus .caret, .navbar-inverse .nav li.dropdown > a:active .caret  {border-top-color: #FFF !important;
   border-bottom-color: #FFF !important;}
 
-  
+
 .carousel {
 position: relative;
 margin-bottom: 0px;
@@ -60,7 +60,7 @@ margin: 92px 0 0 116px !important;
 
 
 .carousel-inner > .item {
-  
+
   margin: 10px 0 0 0;
 }
 
@@ -128,10 +128,10 @@ aside .widget ul {
 }
 aside .widget ul li {
 	padding-left:24px;
-  
+
 	background-image: url("../img/arrow.png");
   background-repeat: no-repeat;
-	background-position: 6px 5px;	
+	background-position: 6px 5px;
 	line-height: 19px;
 }
 aside .widget ul li a {
@@ -148,14 +148,14 @@ aside .widget ul li a:hover {
 aside .widget ul.recent-posts li {
 	overflow:hidden;
 	display:inline-block;
-	
+
 }
 
 aside .widget ul.recent-posts li a{
 	color:#444;
 	text-align:left;
 	font-weight:600;
-	
+
 }
 
 aside .widget ul.recent-posts li a:hover {
@@ -166,7 +166,7 @@ aside .widget ul.recent-posts li span.date {
 	float:left;
 	font-size:11px;
 	margin-top:10px;
-	
+
 }
 
 aside .widget ul.recent-posts li span.comment {
@@ -178,7 +178,7 @@ aside .widget ul.recent-posts li span.comment {
 
 /* tags */
 aside .widget ul.tags li {
-	display:inline;	
+	display:inline;
 	border:none;
 }
 
@@ -203,10 +203,10 @@ aside .widget ul.cat li ul li { border: 0;}
 
 .info ul li {
     line-height: 25px;
- 
+
     margin: 7px 0;
 }
- 
+
 .info .span3 img { max-height: 100px}
 
 .info .span2 img { max-height: 100px; vertical-align: -webkit-baseline-middle;}
@@ -228,7 +228,7 @@ height: 100px;
 /*
 .rowMine .span2 { float: right !important; vertical-align: middle; min-height: 50px;}
 .rowMine .span3{ float: right !important;}*/
-.info img { float: right; clear: both; max-height: 100px;max-width: 230px;margin: 0 0 20px 0;}
+.info img { float: right; clear: both; max-height: 100px;max-width: 200px;margin: 0 0 20px 0;}
 
 .info h3 { display: inline-block;}
 
@@ -243,7 +243,7 @@ height: 100px;
  -webkit-box-shadow: none;
 -moz-box-shadow: auto !important;
  box-shadow: none;}
- 
+
  .justWrap {
     margin-bottom: 20px;  font-family: 'Open Sans', sans-serif;  font-size: 16px;
     text-align: left;    line-height: 29px;
@@ -253,7 +253,7 @@ height: 100px;
 
 .boss2 + p { display: flex;}
 
-.info p { margin: 15px 0;line-height: 29px; font-size: 14px; }
+.info p { margin: 0px 0;line-height: 29px; font-size: 14px; }
 .info { font-size: 14px;}
 .info h5 { font-size: 15px;}
 
@@ -276,7 +276,7 @@ a:hover{ opacity: .75;}
 .green-link{ color: #9ebf25;}
 .span6 p {margin-bottom: 0;}
 .info img {max-height: 180px; }
-.span9 p img {margin-top: 35px;}
+.span9 p img {margin-top: 15px;}
 
 /* Sticky footer styles
 -------------------------------------------------- */

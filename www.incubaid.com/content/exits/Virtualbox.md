@@ -2,14 +2,11 @@
 #Don't remove title!
 title = "Virtualbox"
 +++
+![image](img/logo-oracle.jpg)
+![image](img/logo-oraclesun.jpg)
+![image](img/logo-virtualbox.png)
 
 ### Virtualbox
-
-![image](img/logo-oracle.jpg)
-
-![image](img/logo-oraclesun.jpg)
-
-![image](img/logo-virtualbox.png)
 
 ##### Founded: 2000
 

@@ -2,14 +2,10 @@
 #Don't remove title!
 title = "Dedigate"
 +++
-
-### Dedigate
-
 ![image](img/logo-dedigate.gif)
-
 ![image](img/logo-terremark.jpg)
-
 ![image](img/logo-verizon.png)
+### Dedigate
 
 ##### Founded: 2000
 

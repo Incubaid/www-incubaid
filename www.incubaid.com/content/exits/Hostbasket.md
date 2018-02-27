@@ -3,11 +3,9 @@
 title = "Hostbasket"
 +++
 
-### Hostbasket
-
 ![image](img/logo-hostbasket.png)
-
 ![image](img/logo-telenet.png)
+### Hostbasket
 
 ##### Founded: 2000
 

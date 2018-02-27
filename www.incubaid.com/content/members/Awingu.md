@@ -3,9 +3,11 @@
 title = "Awingu"
 +++
 
+![image](img/awingu-small.png)
+
 ### Awingu Workspace Aggregator
 
-![image](img/awingu-small.png)
+
 
 ##### Founded in 2011
 

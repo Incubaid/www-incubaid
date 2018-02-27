@@ -3,11 +3,11 @@
 title = "Dacentec"
 +++
 
-### Dacentec
-
 ![image](img/logo-dacentec.png)
 
 ![image](img/logo-centrilogic.jpg)
+
+### Dacentec
 
 ##### Founded: 2009
 

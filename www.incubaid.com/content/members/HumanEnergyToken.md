@@ -1,11 +1,14 @@
+
 +++
 #Don't remove title!
 title = "Human Energy Token"
 +++
 
+![http://mmmglobal.org/files/global/10540.jpg](http://mmmglobal.org/files/global/10540.jpg)
+
 ### Human Energy Token
 
-![http://mmmglobal.org/files/global/10540.jpg](http://mmmglobal.org/files/global/10540.jpg)
+
 
 ##### Founded in 2016
 

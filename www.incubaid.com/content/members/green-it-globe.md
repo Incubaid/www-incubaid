@@ -3,9 +3,9 @@
 title = "Green IT Globe"
 +++
 
-### Green IT Globe (GIG)
+![image](img/gig-logo2.png) 
 
-![image](img/gig-logo.jpg)
+### Green IT Globe (GIG)
 
 ##### Founded in 2009
 

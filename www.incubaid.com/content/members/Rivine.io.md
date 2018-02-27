@@ -2,10 +2,10 @@
 #Don't remove title!
 title = "Rivine.io"
 +++
-
+<img class="rivine" src="img/rivine.jpg">
 ### Rivine.io Blockchain Reinvented
 
-<img class="rivine" src="img/rivine.jpg">
+
 
 ##### Founded in 2016, now part of GreenITGlobe
 

@@ -2,8 +2,11 @@
 #Don't remove title!
 title = "Racktivity"
 +++
-
 ![image](img/racktivity_logo.png)
+
+### Racktivity
+
+
 
 ##### Founded in 2009, now part of GreenITGlobe
 

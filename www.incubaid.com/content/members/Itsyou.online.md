@@ -3,9 +3,9 @@
 title = "Itsyou.online"
 +++
 
-### Itsyou.online Blockchain Identity Management
-
 ![image](img/itsyouonline-logo.jpg)
+
+### Itsyou.online Blockchain Identity Management
 
 ##### Founded in 2015, now part of GreenITGlobe
 

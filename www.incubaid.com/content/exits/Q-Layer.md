@@ -2,10 +2,8 @@
 #Don't remove title!
 title = "Q-Layer"
 +++
-
-### Q-Layer
-
 ![image](img/logo-qlayer.jpg) ![image](img/logo-oracle.jpg) ![image](img/logo-oraclesun.jpg)
+### Q-Layer
 
 ##### Founded: 2006
 

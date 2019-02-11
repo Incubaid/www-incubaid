@@ -3,7 +3,7 @@
 title = "ThreeFold Tech"
 +++
 
-![image](img/.png)
+![image](img/tftech-logo.jpg)
 
 ### ThreeFold.Tech
 

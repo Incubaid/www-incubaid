@@ -6,7 +6,7 @@ header = "Incubator and IT Innovator"
 
 summary = ["7 High-Profile Exits", "Innovating Blockchain"]
 
-greenitglobe_link = "http://www.greenitglobe.com"
+greenitglobe_link = "http://www.threefold.tech"
 readmore_link = "introduction/introduction"
 
 slide1_link = 'members/Amplidata'
@@ -31,4 +31,4 @@ slide7_link = 'members/Mothership1'
 slide7_image = 'img/Mothership1.png'
 
 +++
-Incubaid is a disruptor focused primarily on changing the IT and cloud landscape. Since 2000, Incubaid has founded and developed a number of startups in datacenter, storage and cloud services - including 7 successful exits to leading technology companies: Sun Microsystems, Oracle, Western Digital, Verizon and Hitachi Data Systems. Our largest portfolio company, <a href="http://www.greenitglobe.com" target="_blank">Green IT Globe</a>, combines multiple portfolio technologies into a highly disruptive wholistic cloud platform solution. We are a team comprised of start-up veterans with many of us working together for more than a decade. Our extensive experience spans capital raising, operations and execution, legal advisory, IP and financial, strategy and marketing. Our team is further supported by a network of advisors who provide assistance to our portfolio companies. In addition to <a href="http://www.greenitglobe.com" target="_blank">Green IT Globe</a>, our current areas of focus are centered around blockchain innovation, digital currencies, mobile applications and green-energy technologies.
+Incubaid is a disruptor focused primarily on changing the IT and cloud landscape. Since 2000, Incubaid has founded and developed a number of startups in datacenter, storage and cloud services - including 7 successful exits to leading technology companies: Sun Microsystems, Oracle, Western Digital, Verizon and Hitachi Data Systems. Our largest portfolio company, <a href="http://www.threefold.tech" target="_blank">ThreeFold Tech</a>, combines multiple portfolio technologies into a highly disruptive wholistic cloud platform solution. We are a team comprised of start-up veterans with many of us working together for more than a decade. Our extensive experience spans capital raising, operations and execution, legal advisory, IP and financial, strategy and marketing. Our team is further supported by a network of advisors who provide assistance to our portfolio companies. In addition to <a href="http://www.threefold.tech" target="_blank">ThreeFold Tech</a>, our current areas of focus are centered around blockchain innovation, digital currencies, mobile applications and green-energy technologies.

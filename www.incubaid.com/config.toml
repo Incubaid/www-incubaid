@@ -10,3 +10,126 @@ relativeURLs = true
 [permalinks]
     post = "/:filename"
     contact-us = "/:filename"
+
+
+[menu]
+
+# Main menu
+
+[[menu.main]]
+    name = "Home"
+    url  = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Introduction"
+    url  = "introduction/introduction"
+    weight = 2
+
+[[menu.main]]
+    name = "Exits"
+    identifier = "exits"
+    url  = "#"
+    weight = 3
+
+[[menu.main]]
+    name = "Amplidata"
+    parent = "exits"
+    url  = "/exits/Amplidata/"
+
+[[menu.main]]
+    name = "Dacentec"
+    parent = "exits"
+    url  = "/exits/Dacentec/"
+
+[[menu.main]]
+    name = "DataCenterTech"
+    parent = "exits"
+    url  = "/exits/DataCenterTech/"
+
+[[menu.main]]
+    name = "Dedigate"
+    parent = "exits"
+    url  = "/exits/Dedigate/"
+
+[[menu.main]]
+    name = "Hostbasket"
+    parent = "exits"
+    url = "/exits/Hostbasket/"
+
+[[menu.main]]
+    name = "Q-Layer"
+    parent = "exits"
+    url = "/exits/Q-Layer/"
+
+[[menu.main]]
+    name = "Virtualbox"
+    parent = "exits"
+    url = "/exits/Virtualbox/"
+
+[[menu.main]]
+    name = "Members"
+    identifier = "members"
+    url = "#"
+    weight = 4
+
+[[menu.main]]
+    name = "Awingu"
+    parent = "members"
+    url = "/members/Awingu/"
+
+[[menu.main]]
+    name = "Green IT Globe"
+    parent = "members"
+    url = "/members/green-it-globe/"
+
+[[menu.main]]
+    name = "Human Energy Token"
+    parent = "members"
+    url = "/members/HumanEnergyToken/"
+
+[[menu.main]]
+    name = "Itsyou.online"
+    parent = "members"
+    url = "/members/Itsyou.online/"
+
+[[menu.main]]
+    name = "Open vStorage"
+    parent = "members"
+    url = "/members/Open%20vStorage/"
+
+[[menu.main]]
+    name = "Racktivity"
+    parent = "members"
+    url = "/members/Racktivity/"
+
+[[menu.main]]
+    name = "Rivine.io"
+    parent = "members"
+    url = "/members/Rivine.io/"
+
+[[menu.main]]
+    name = "Rogerthat"
+    parent = "members"
+    url = "/members/Rogerthat/"
+
+[[menu.main]]
+    name = "Company"
+    identifier = "company"
+    url  = "#"
+    weight = 5
+
+[[menu.main]]
+    name = "About The Company"
+    parent = "company"
+    url = "/company/About%20The%20Company/"
+
+[[menu.main]]
+    name = "Leadership"
+    parent = "company"
+    url = "/company/Management%20Team/"
+
+[[menu.main]]
+    name = "Contact Us"
+    url  = "/contact-us"
+    weight = 6

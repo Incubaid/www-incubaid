@@ -122,12 +122,12 @@ relativeURLs = true
 [[menu.main]]
     name = "About The Company"
     parent = "company"
-    url = "/company/About%20The%20Company/"
+    url = "/company/About-The-Company/"
 
 [[menu.main]]
     name = "Leadership"
     parent = "company"
-    url = "/company/Management%20Team/"
+    url = "/company/Management-Team/"
 
 [[menu.main]]
     name = "Contact Us"

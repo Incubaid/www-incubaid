@@ -87,17 +87,17 @@ relativeURLs = true
 
 [[menu.main]]
     name = "Itsyou.online"
-    parent = "members"
+    parent = "fprojects"
     url = "/members/Itsyou.online/"
 
 [[menu.main]]
     name = "Open vStorage"
-    parent = "members"
+    parent = "fprojects"
     url = "/members/Open%20vStorage/"
 
 [[menu.main]]
     name = "Racktivity"
-    parent = "members"
+    parent = "fprojects"
     url = "/members/Racktivity/"
 
 [[menu.main]]

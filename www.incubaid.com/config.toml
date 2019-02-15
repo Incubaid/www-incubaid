@@ -43,6 +43,11 @@ relativeURLs = true
     parent = "cprojects"
     url = "/members/Rivine.io/"
 
+[[menu.main]]
+    name = "ThreeFoldTech"
+    parent = "cprojects"
+    url = "/members/tf.tech/"
+
 
 [menu.main]]
     name = "Exits"

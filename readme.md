@@ -12,7 +12,7 @@ Clone the repository, checkout the proper branch ('production' for production) a
 
 # Regenerate the site when updating the content:
 
-Can view auto updated version from master branch on staging server [http://incubaid.aydo.com:8888](http://incubaid.aydo.com:8888) "Changes take up to 5 minutes to be live on staging server"
+Can view auto updated version from master branch on staging server [www2.incubaid.com](http://www2.incubaid.com) "Changes take up to 5 minutes to be live on staging server"
 
 Or on local environment:
 

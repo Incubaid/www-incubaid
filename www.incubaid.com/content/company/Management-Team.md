@@ -20,12 +20,6 @@ pierre_bio = "https://be.linkedin.com/in/pvhoorebeke"
 pierre_mail = "mailto:vhoorebp@incubaid.com"
 pierre_tele = "https://t.me/pierrevh"
 
-Sacha_header = "Sacha Vekeman – Chief Marketing Officer"
-Sacha_pic = "img/Sacha.jpg"
-Sacha_bio = "https://be.linkedin.com/in/svekeman"
-Sacha_mail = "mailto:sacha@incubaid.com"
-Sacha_tele = "https://t.me/svekeman"
-
 jan_header = "Jan De Landtsheer - Chief Research and Development"
 jan_pic = "img/Jan.jpg"
 jan_bio = "https://be.linkedin.com/in/jand2"

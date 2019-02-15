@@ -26,7 +26,6 @@ relativeURLs = true
     url  = "introduction/introduction"
     weight = 2
 
-[
 [[menu.main]]
     name = "Current Projects"
     identifier = "cprojects"
@@ -49,7 +48,7 @@ relativeURLs = true
     url = "/members/threefoldtech/"
 
 
-[menu.main]]
+[[menu.main]]
     name = "Exits"
     identifier = "exits"
     url  = "#"

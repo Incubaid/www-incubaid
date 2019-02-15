@@ -26,11 +26,29 @@ relativeURLs = true
     url  = "introduction/introduction"
     weight = 2
 
+[
 [[menu.main]]
+    name = "Current Projects"
+    identifier = "cprojects"
+    url = "#"
+    weight = 3
+
+[[menu.main]]
+    name = "Human Energy Token"
+    parent = "cprojects"
+    url = "/members/HumanEnergyToken/"
+
+[[menu.main]]
+    name = "Rivine.io"
+    parent = "cprojects"
+    url = "/members/Rivine.io/"
+
+
+[menu.main]]
     name = "Exits"
     identifier = "exits"
     url  = "#"
-    weight = 3
+    weight = 4
 
 [[menu.main]]
     name = "Amplidata"
@@ -67,23 +85,6 @@ relativeURLs = true
     parent = "exits"
     url = "/exits/Virtualbox/"
 
-[[menu.main]]
-    name = "Current Projects"
-    identifier = "cprojects"
-    url = "#"
-    weight = 4
-
-[[menu.main]]
-    name = "Human Energy Token"
-    parent = "cprojects"
-    url = "/members/HumanEnergyToken/"
-
-[[menu.main]]
-    name = "Rivine.io"
-    parent = "cprojects"
-    url = "/members/Rivine.io/"
-
-
 
 [[menu.main]]
     name = "Former Projects"
@@ -94,7 +95,7 @@ relativeURLs = true
 [[menu.main]]
     name = "Green IT Globe"
     parent = "fprojects"
-    url = "/former-projects/green-it-globe/"
+    url = "/members/green-it-globe/"
 
 [[menu.main]]
     name = "Rogerthat"
@@ -114,7 +115,7 @@ relativeURLs = true
 [[menu.main]]
     name = "Open vStorage"
     parent = "fprojects"
-    url = "/members/Open%20vStorage/"
+    url = "/members/Open-vStorage/"
 
 [[menu.main]]
     name = "Itsyou.online"

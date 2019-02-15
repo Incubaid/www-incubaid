@@ -74,31 +74,9 @@ relativeURLs = true
     weight = 4
 
 [[menu.main]]
-    name = "Awingu"
-    parent = "cprojects"
-    url = "/members/Awingu/"
-
-
-
-[[menu.main]]
     name = "Human Energy Token"
     parent = "cprojects"
     url = "/members/HumanEnergyToken/"
-
-[[menu.main]]
-    name = "Itsyou.online"
-    parent = "fprojects"
-    url = "/members/Itsyou.online/"
-
-[[menu.main]]
-    name = "Open vStorage"
-    parent = "fprojects"
-    url = "/members/Open%20vStorage/"
-
-[[menu.main]]
-    name = "Racktivity"
-    parent = "fprojects"
-    url = "/members/Racktivity/"
 
 [[menu.main]]
     name = "Rivine.io"
@@ -122,6 +100,26 @@ relativeURLs = true
     name = "Rogerthat"
     parent = "fprojects"
     url = "/members/Rogerthat/"
+
+[[menu.main]]
+    name = "Awingu"
+    parent = "fprojects"
+    url = "/members/Awingu/"
+
+[[menu.main]]
+    name = "Racktivity"
+    parent = "fprojects"
+    url = "/members/Racktivity/"
+
+[[menu.main]]
+    name = "Open vStorage"
+    parent = "fprojects"
+    url = "/members/Open%20vStorage/"
+
+[[menu.main]]
+    name = "Itsyou.online"
+    parent = "fprojects"
+    url = "/members/Itsyou.online/"
 
 [[menu.main]]
     name = "Company"

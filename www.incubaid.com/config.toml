@@ -46,7 +46,7 @@ relativeURLs = true
 [[menu.main]]
     name = "ThreeFoldTech"
     parent = "cprojects"
-    url = "/members/tf.tech/"
+    url = "/members/threefoldtech/"
 
 
 [menu.main]]

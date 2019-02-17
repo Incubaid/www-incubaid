@@ -39,7 +39,7 @@ pluralizeListTitles = false
     url = "/currentprojects/HumanEnergyToken"
 
 [[menu.main]]
-    name = "Rivine.io"
+    name = "Jimber"
     parent = "cprojects"
     url = "/currentprojects/jimber"
 

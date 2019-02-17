@@ -147,5 +147,5 @@ pluralizeListTitles = false
 
 [[menu.main]]
     name = "Contact Us"
-    url  = "/contact-us"
-    weight = 7
+    parent = "company"
+    url  = "/company/contact-us"

@@ -644,7 +644,7 @@ input[type=submit] {
 }
 
 input[type=text], textarea {
-	background: #fff;
+	background: rgb(242, 242, 242) !important;
 	font-size: 18px;
 	font-family:'Open Sans', sans-serif;
 	display: block;
@@ -662,6 +662,8 @@ textarea {
 	padding: 18px;
 	width: 100%;
 	text-indent: 0;	
+	background: rgb(242, 242, 242) !important;
+
 }
 .textarea-container { margin: 0 18px; }
 .textarea-container textarea { margin-left: -18px; }

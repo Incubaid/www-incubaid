@@ -27,7 +27,9 @@
 					</div>
 					<div class="info clearfix">
 						<div class="span9">
-							{{ if eq .Title "Leadership" }}
+							{{ if eq .Title "Contact Us" }}
+							{{ .Render "contact-us" }}
+							{{ else if eq .Title "Leadership" }}
 							{{ .Content }}
 							<div>
 								<h3>{{ .Params.kristof_header }}</h3>

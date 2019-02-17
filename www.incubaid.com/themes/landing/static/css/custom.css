@@ -137,6 +137,7 @@ aside .widget ul li {
 aside .widget ul li a {
 	color:#444;
 	margin: 0 0 0 2px !important;
+	text-transform: capitalize !important; 
 }
 aside .widget ul li a:hover {
 	text-decoration:none;
@@ -271,7 +272,7 @@ height: 100px;
 .twitter{ background-color:  #55acee;}
 .telegram { background-color: #0088cc;}
 .mail { background-color: #68b622;}
-a, a:active{color: #68b622; text-decoration: none;}
+a, a:active{color: #68b622; text-decoration: none; text-transform: capitalize;}
 a:hover{ opacity: .75;}
 .green-link{ color: #9ebf25;}
 .span6 p {margin-bottom: 0;}

@@ -1,11 +1,13 @@
 baseurl = "/"
 languageCode = "en-us"
 title = "Incubaid - Deliver IT as Energy!"
+themesDir = "themes"
 theme = "landing"
 contentdir = "content"
 staticdir = "static"
 publishdir = "site"
 relativeURLs = true
+pluralizeListTitles = false
 
 [permalinks]
     post = "/:filename"
@@ -23,35 +25,38 @@ relativeURLs = true
 
 [[menu.main]]
     name = "Introduction"
-    url  = "introduction/introduction"
+    url  = "/introduction"
     weight = 2
 
 [[menu.main]]
     name = "Current Projects"
     identifier = "cprojects"
-    url = "#"
     weight = 3
 
 [[menu.main]]
     name = "Human Energy Token"
     parent = "cprojects"
-    url = "/members/HumanEnergyToken/"
+    url = "/currentprojects/HumanEnergyToken"
 
 [[menu.main]]
     name = "Rivine.io"
     parent = "cprojects"
-    url = "/members/Rivine.io/"
+    url = "/currentprojects/jimber"
 
 [[menu.main]]
     name = "ThreeFoldTech"
     parent = "cprojects"
-    url = "/members/threefoldtech/"
+    url = "/currentprojects/threefoldtech"
+
+[[menu.main]]
+    name = "ThreeFoldFoundation"
+    parent = "cprojects"
+    url = "/currentprojects/threefoldfoundation"
 
 
 [[menu.main]]
     name = "Exits"
     identifier = "exits"
-    url  = "#"
     weight = 4
 
 [[menu.main]]
@@ -93,43 +98,41 @@ relativeURLs = true
 [[menu.main]]
     name = "Former Projects"
     identifier = "fprojects"
-    url = "#"
     weight = 5
 
 [[menu.main]]
     name = "Green IT Globe"
     parent = "fprojects"
-    url = "/members/green-it-globe/"
+    url = "/formerprojects/green-it-globe/"
 
 [[menu.main]]
     name = "Rogerthat"
     parent = "fprojects"
-    url = "/members/Rogerthat/"
+    url = "/formerprojects/Rogerthat/"
 
 [[menu.main]]
     name = "Awingu"
     parent = "fprojects"
-    url = "/members/Awingu/"
+    url = "/formerprojects/Awingu/"
 
 [[menu.main]]
     name = "Racktivity"
     parent = "fprojects"
-    url = "/members/Racktivity/"
+    url = "/formerprojects/Racktivity/"
 
 [[menu.main]]
     name = "Open vStorage"
     parent = "fprojects"
-    url = "/members/Open-vStorage/"
+    url = "/formerprojects/Open-vStorage/"
 
 [[menu.main]]
     name = "Itsyou.online"
     parent = "fprojects"
-    url = "/members/Itsyou.online/"
+    url = "/formerprojects/Itsyou.online/"
 
 [[menu.main]]
     name = "Company"
     identifier = "company"
-    url  = "#"
     weight = 6
 
 [[menu.main]]
@@ -145,4 +148,4 @@ relativeURLs = true
 [[menu.main]]
     name = "Contact Us"
     url  = "/contact-us"
-    weight = 6
+    weight = 7

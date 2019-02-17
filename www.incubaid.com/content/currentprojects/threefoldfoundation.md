@@ -1,6 +1,6 @@
 +++
 #Don't remove title!
-title = "ThreeFold Tech"
+title = "ThreeFold Foundation"
 +++
 
 ![image](img/tftech-logo.jpg)

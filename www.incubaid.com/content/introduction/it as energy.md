@@ -1,6 +1,6 @@
 +++
 #Don't remove title!
-title = "IT As Energy"
+title = "it as energy"
 +++
 
 ### IT as Energy

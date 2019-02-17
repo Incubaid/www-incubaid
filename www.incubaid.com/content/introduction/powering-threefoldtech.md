@@ -1,6 +1,6 @@
 +++
 #Don't remove title!
-title = "Introduction"
+title = "powering threefold tech"
 +++
 
 ### Powering <a href="http://www.threefold.tech" target="_blank">ThreeFold Tech</a>

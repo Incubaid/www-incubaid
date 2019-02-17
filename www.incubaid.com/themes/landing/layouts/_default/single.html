@@ -5,129 +5,132 @@
 		<div id="herowrap">
 			<div class="container">
 				<div class="row">
-			    	<h3>{{ .Title }}</h3>
+					<h3>{{ .Title }}</h3>
 				</div>
 			</div>
 		</div>
 		<div class="white">
 			<div class="container page-container">
 				<div class="row">
-          {{ if ne .RelPermalink "/thanks"}}
-						<div class="span3">
-								<aside>
-									<div class="widget">
-										<h4 class="rheading">{{ .Section }}<span></span></h4>
-										<ul class="nav nav-list tree">
-											{{ range $element := where .Site.Pages "Section" .Section }}
-		                    <li class="active-item active"><a href="{{ $element.RelPermalink }}">{{ $element.Title }}</a></li>
-											{{ end }}
-										</ul>
-									</div>
-								</aside>
-						</div>
-					{{ end }}
+					<div class="span3">
+						<aside>
+							<div class="widget">
+								<h4 class="rheading">{{ .Section }}<span></span></h4>
+								<ul class="nav nav-list tree">
+									{{ range $element := where .Site.Pages "Section" .Section }}
+									<li class="active-item active"><a
+											href="{{ $element.RelPermalink }}">{{ $element.Title }}</a></li>
+									{{ end }}
+								</ul>
+							</div>
+						</aside>
+					</div>
 					<div class="info clearfix">
 						<div class="span9">
-									{{ if eq .Title "Leadership" }}
-										{{ .Content }}
-											<div>
-												<h3>{{ .Params.kristof_header }}</h3>
-												<div class="row">
-													<div class="span">
-														<div class="boss2">
-															<img src="{{ .Params.kristof_pic }}" alt="" class="img-circle" />
-														</div>
-													</div>
-													<div class="span7">
-														<a class="linkedin" href="{{ .Params.kristof_bio }}" target="_blank">LinkedIn</a>
-														<a class="mail" href="{{ .Params.kristof_mail }}">E-mail</a>
-														<a class="telegram" href="{{ .Params.kristof_tele }}" target="_blank">Telegram</a>
-													</div>
-												</div>
-												<hr />
-											</div>
-											<div>
-												<h3>{{ .Params.sophie_header }}</h3>
-												<div class="row">
-													<div class="span">
-														<div class="boss2">
-															<img src="{{ .Params.sophie_pic }}" alt="" class="img-circle" />
-														</div>
-													</div>
-													<div class="span7">
-														<a class="linkedin" href="{{ .Params.sophie_bio }}" target="_blank">LinkedIn</a>
-														<a class="mail" href="{{ .Params.sophie_mail }}">E-mail</a>
-														<a class="telegram" href="{{ .Params.sophie_tele }}" target="_blank">Telegram</a>
-													</div>
-												</div>
-												<hr />
-											</div>
-											<div>
-												<h3>{{ .Params.jan_header }}</h3>
-												<div class="row">
-													<div class="span">
-														<div class="boss2">
-															<img src="{{ .Params.jan_pic }}" alt="" class="img-circle arvid Jan" />
-														</div>
-													</div>
-													<div class="span7">
-														<a class="linkedin" href="{{ .Params.jan_bio }}" target="_blank">LinkedIn</a>
-														<a class="mail" href="{{ .Params.jan_mail }}">E-mail</a>
-														<a class="telegram" href="{{ .Params.jan_tele }}" target="_blank">Telegram</a>
-													</div>
-												</div>
-												<hr />
-											</div>
-											<div>
-												<h3>{{ .Params.sacha_header }}</h3>
-												<div class="row">
-													<div class="span">
-														<div class="boss2">
-															<img src="{{ .Params.sacha_pic }}" alt="" class="img-circle" />
-														</div>
-													</div>
-													<div class="span7">
-														<a class="linkedin" href="{{ .Params.sacha_bio }}" target="_blank">LinkedIn</a>
-														<a class="mail" href="{{ .Params.sacha_mail }}">E-mail</a>
-														<a class="telegram" href="{{ .Params.sacha_tele }}" target="_blank">Telegram</a>
-													</div>
-												</div>
-												<hr />
-											</div>
-											<div>
-												<h3>{{ .Params.peter_header }}</h3>
-												<div class="row">
-													<div class="span">
-														<div class="boss2">
-															<img src="{{ .Params.peter_pic }}" alt="" class="img-circle arvid" />
-														</div>
-													</div>
-													<div class="span7">
-														<a class="linkedin" href="{{ .Params.peter_bio }}" target="_blank">LinkedIn</a>
-														<a class="mail" href="{{ .Params.peter_mail }}">E-mail</a>
-														<a class="telegram" href="{{ .Params.peter_tele }}" target="_blank">Telegram</a>
-													</div>
-												</div>
-												<hr />
-											</div>
-											<div>
-												<h3>{{ .Params.pierre_header }}</h3>
-												<div class="row">
-													<div class="span">
-														<div class="boss2">
-															<img src="{{ .Params.pierre_pic }}" alt="" class="img-circle arvid" />
-														</div>
-													</div>
-													<div class="span7">
-														<a class="linkedin" href="{{ .Params.pierre_bio }}" target="_blank">LinkedIn</a>
-														<a class="mail" href="{{ .Params.pierre_mail }}">E-mail</a>
-														<a class="telegram" href="{{ .Params.pierre_tele }}" target="_blank">Telegram</a>
-													</div>
-												</div>
-											</div>
-									{{ else }}
-				        		{{ .Content }}
-									{{ end }}
+							{{ if eq .Title "Leadership" }}
+							{{ .Content }}
+							<div>
+								<h3>{{ .Params.kristof_header }}</h3>
+								<div class="row">
+									<div class="span">
+										<div class="boss2">
+											<img src="{{ .Params.kristof_pic }}" alt="" class="img-circle" />
+										</div>
+									</div>
+									<div class="span7">
+										<a class="linkedin" href="{{ .Params.kristof_bio }}"
+											target="_blank">LinkedIn</a>
+										<a class="mail" href="{{ .Params.kristof_mail }}">E-mail</a>
+										<a class="telegram" href="{{ .Params.kristof_tele }}"
+											target="_blank">Telegram</a>
+									</div>
+								</div>
+								<hr />
+							</div>
+							<div>
+								<h3>{{ .Params.sophie_header }}</h3>
+								<div class="row">
+									<div class="span">
+										<div class="boss2">
+											<img src="{{ .Params.sophie_pic }}" alt="" class="img-circle" />
+										</div>
+									</div>
+									<div class="span7">
+										<a class="linkedin" href="{{ .Params.sophie_bio }}" target="_blank">LinkedIn</a>
+										<a class="mail" href="{{ .Params.sophie_mail }}">E-mail</a>
+										<a class="telegram" href="{{ .Params.sophie_tele }}"
+											target="_blank">Telegram</a>
+									</div>
+								</div>
+								<hr />
+							</div>
+							<div>
+								<h3>{{ .Params.jan_header }}</h3>
+								<div class="row">
+									<div class="span">
+										<div class="boss2">
+											<img src="{{ .Params.jan_pic }}" alt="" class="img-circle arvid Jan" />
+										</div>
+									</div>
+									<div class="span7">
+										<a class="linkedin" href="{{ .Params.jan_bio }}" target="_blank">LinkedIn</a>
+										<a class="mail" href="{{ .Params.jan_mail }}">E-mail</a>
+										<a class="telegram" href="{{ .Params.jan_tele }}" target="_blank">Telegram</a>
+									</div>
+								</div>
+								<hr />
+							</div>
+							<div>
+								<h3>{{ .Params.sacha_header }}</h3>
+								<div class="row">
+									<div class="span">
+										<div class="boss2">
+											<img src="{{ .Params.sacha_pic }}" alt="" class="img-circle" />
+										</div>
+									</div>
+									<div class="span7">
+										<a class="linkedin" href="{{ .Params.sacha_bio }}" target="_blank">LinkedIn</a>
+										<a class="mail" href="{{ .Params.sacha_mail }}">E-mail</a>
+										<a class="telegram" href="{{ .Params.sacha_tele }}" target="_blank">Telegram</a>
+									</div>
+								</div>
+								<hr />
+							</div>
+							<div>
+								<h3>{{ .Params.peter_header }}</h3>
+								<div class="row">
+									<div class="span">
+										<div class="boss2">
+											<img src="{{ .Params.peter_pic }}" alt="" class="img-circle arvid" />
+										</div>
+									</div>
+									<div class="span7">
+										<a class="linkedin" href="{{ .Params.peter_bio }}" target="_blank">LinkedIn</a>
+										<a class="mail" href="{{ .Params.peter_mail }}">E-mail</a>
+										<a class="telegram" href="{{ .Params.peter_tele }}" target="_blank">Telegram</a>
+									</div>
+								</div>
+								<hr />
+							</div>
+							<div>
+								<h3>{{ .Params.pierre_header }}</h3>
+								<div class="row">
+									<div class="span">
+										<div class="boss2">
+											<img src="{{ .Params.pierre_pic }}" alt="" class="img-circle arvid" />
+										</div>
+									</div>
+									<div class="span7">
+										<a class="linkedin" href="{{ .Params.pierre_bio }}" target="_blank">LinkedIn</a>
+										<a class="mail" href="{{ .Params.pierre_mail }}">E-mail</a>
+										<a class="telegram" href="{{ .Params.pierre_tele }}"
+											target="_blank">Telegram</a>
+									</div>
+								</div>
+							</div>
+							{{ else }}
+							{{ .Content }}
+							{{ end }}
 						</div>
 					</div>
 				</div>

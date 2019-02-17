@@ -1,4 +1,4 @@
-{{ if eq .Title "Members" }} {{ partial "head.html" . }} {{ partial "header.html" . }}
+{{ partial "head.html" . }} {{ partial "header.html" . }}
 <div id="wrap">
 	<div id="main">
 		<div id="herowrap">
@@ -18,9 +18,9 @@
 									<span></span>
 								</h4>
 								<ul class="nav nav-list tree">
-									{{ range $element := .Data.Pages }}
+									{{ range .Data.Pages }}
 									<li class="active-item active">
-										<a href="{{ $element.RelPermalink }}">{{ $element.Title }}</a>
+										<a href="{{ .RelPermalink }}">{{ .Params.title }}</a>
 									</li>
 									{{ end }}
 								</ul>
@@ -48,4 +48,4 @@
 		</div>
 	</div>
 </div>
-{{ partial "home_page/footer.html" . }} {{ end }}
+{{ partial "home_page/footer.html" . }}

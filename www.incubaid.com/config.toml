@@ -131,6 +131,11 @@ pluralizeListTitles = false
     url = "/formerprojects/Itsyou.online/"
 
 [[menu.main]]
+    name = "Rivine.Io"
+    parent = "fprojects"
+    url = "/formerprojects/rivine.io/"
+
+[[menu.main]]
     name = "Company"
     identifier = "company"
     weight = 6

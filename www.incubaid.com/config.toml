@@ -39,7 +39,7 @@ pluralizeListTitles = false
     url = "/currentprojects/HumanEnergyToken"
 
 [[menu.main]]
-    name = "Rivine.io"
+    name = "Jimber"
     parent = "cprojects"
     url = "/currentprojects/jimber"
 
@@ -129,6 +129,11 @@ pluralizeListTitles = false
     name = "Itsyou.online"
     parent = "fprojects"
     url = "/formerprojects/Itsyou.online/"
+
+[[menu.main]]
+    name = "Rivine.Io"
+    parent = "fprojects"
+    url = "/formerprojects/rivine.io/"
 
 [[menu.main]]
     name = "Company"

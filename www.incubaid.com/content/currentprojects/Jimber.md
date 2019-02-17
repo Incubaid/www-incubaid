@@ -28,5 +28,4 @@ Jimber security broker can be used as a reverse proxy, fully separating applicat
 
 
 ##### Website:
-
-[Jimber.org](https://www.jimber.org)
+<a href="https://www.jimber.org" target="_blank">Jimber.org</a>

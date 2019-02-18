@@ -36,22 +36,22 @@ pluralizeListTitles = false
 [[menu.main]]
     name = "Human Energy Token"
     parent = "cprojects"
-    url = "/currentprojects/HumanEnergyToken"
+    url = "/current projects/HumanEnergyToken"
 
 [[menu.main]]
     name = "Jimber"
     parent = "cprojects"
-    url = "/currentprojects/jimber"
+    url = "/current projects/jimber"
 
 [[menu.main]]
     name = "ThreeFoldTech"
     parent = "cprojects"
-    url = "/currentprojects/threefoldtech"
+    url = "/current projects/threefoldtech"
 
 [[menu.main]]
     name = "ThreeFoldFoundation"
     parent = "cprojects"
-    url = "/currentprojects/threefoldfoundation"
+    url = "/current projects/threefoldfoundation"
 
 
 [[menu.main]]
@@ -103,37 +103,37 @@ pluralizeListTitles = false
 [[menu.main]]
     name = "Green IT Globe"
     parent = "fprojects"
-    url = "/formerprojects/green-it-globe/"
+    url = "/former projects/green-it-globe/"
 
 [[menu.main]]
     name = "Rogerthat"
     parent = "fprojects"
-    url = "/formerprojects/Rogerthat/"
+    url = "/former projects/Rogerthat/"
 
 [[menu.main]]
     name = "Awingu"
     parent = "fprojects"
-    url = "/formerprojects/Awingu/"
+    url = "/former projects/Awingu/"
 
 [[menu.main]]
     name = "Racktivity"
     parent = "fprojects"
-    url = "/formerprojects/Racktivity/"
+    url = "/former projects/Racktivity/"
 
 [[menu.main]]
     name = "Open vStorage"
     parent = "fprojects"
-    url = "/formerprojects/Open-vStorage/"
+    url = "/former projects/Open-vStorage/"
 
 [[menu.main]]
     name = "Itsyou.online"
     parent = "fprojects"
-    url = "/formerprojects/Itsyou.online/"
+    url = "/former projects/Itsyou.online/"
 
 [[menu.main]]
     name = "Rivine.Io"
     parent = "fprojects"
-    url = "/formerprojects/rivine.io/"
+    url = "/former projects/rivine.io/"
 
 [[menu.main]]
     name = "Company"

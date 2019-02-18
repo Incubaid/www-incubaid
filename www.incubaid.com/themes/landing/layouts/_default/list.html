@@ -30,10 +30,7 @@
 					<div class="info clearfix">
 						<div class="span9">
 							<h2>{{ .Title }}</h2>
-							<p>
-								Incubaid creates & helps to grow companies around datacenters and cloud computing. Read more here about our active member
-								companies:
-							</p>
+							{{ .Content }}
 							<ul>
 								{{ range $element := .Data.Pages }}
 								<li class="active-item active">
